@@ -1,0 +1,7 @@
+# large binaries: kept in the folder, not in git (regenerate with build.bat)
+original_backup/
+extracted_assets/
+output/
+modified/
+__pycache__/
+*.pyc

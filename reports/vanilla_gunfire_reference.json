@@ -1,0 +1,342 @@
+{
+ "0": {
+  "fx_munition_name": "0",
+  "fx_tracer_speed": 200.0,
+  "samples": 1
+ },
+ "colt45_tracer": {
+  "fx_munition_name": "pistol",
+  "fx_tracer_speed": 120.0,
+  "samples": 4
+ },
+ "fx_1911_pistol_tracer": {
+  "fx_munition_name": "pistol",
+  "fx_tracer_speed": 120.0,
+  "samples": 4
+ },
+ "fx_20mm_turret_tracer": {
+  "fx_munition_name": "20mmShell",
+  "fx_tracer_speed": 0.0,
+  "samples": 10
+ },
+ "fx_bar_rifle_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 55.0,
+  "samples": 1
+ },
+ "fx_dshk38_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 4
+ },
+ "fx_fg42_rifle_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 1
+ },
+ "fx_fire_bren_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 50.0,
+  "samples": 1
+ },
+ "fx_fire_maingun_tracer": {
+  "fx_munition_name": "shell_jagdtiger",
+  "fx_tracer_speed": 200.0,
+  "samples": 4
+ },
+ "fx_fire_maingun_tracer_ap": {
+  "fx_munition_name": "shell_jagdtiger",
+  "fx_tracer_speed": 200.0,
+  "samples": 2
+ },
+ "fx_flamethrower_stream": {
+  "fx_munition_name": "flame",
+  "fx_tracer_speed": 0.0,
+  "samples": 1
+ },
+ "fx_g34_sniperfire_tracer": {
+  "fx_munition_name": "bullet",
+  "fx_tracer_speed": 120.0,
+  "samples": 15
+ },
+ "fx_garand_rifle_tracer": {
+  "fx_munition_name": "bullet",
+  "fx_tracer_speed": 120.0,
+  "samples": 6
+ },
+ "fx_hmg_hull_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 18
+ },
+ "fx_hmg_rw_tracer": {
+  "fx_munition_name": "20mmshell",
+  "fx_tracer_speed": 0.0,
+  "samples": 8
+ },
+ "fx_hmg_turret_rear_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 2
+ },
+ "fx_hmg_turret_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 28
+ },
+ "fx_hmg_turret_tracer01": {
+  "fx_munition_name": "hmg_large",
+  "fx_tracer_speed": 120.0,
+  "samples": 3
+ },
+ "fx_hmg_turret_tracer02": {
+  "fx_munition_name": "hmg_large",
+  "fx_tracer_speed": 120.0,
+  "samples": 1
+ },
+ "fx_hmg_turret_tracer105": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 1
+ },
+ "fx_hmg_turret_tracer75": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 3
+ },
+ "fx_hull_hatch_left_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 1
+ },
+ "fx_hull_hatch_right_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 1
+ },
+ "fx_lee_enfield_tracer": {
+  "fx_munition_name": "bullet",
+  "fx_tracer_speed": 120.0,
+  "samples": 7
+ },
+ "fx_lmg_1919a6_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 3
+ },
+ "fx_lmg_bren_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 3
+ },
+ "fx_lmg_mg34_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 4
+ },
+ "fx_maingun_tracer": {
+  "fx_munition_name": "20mmshell",
+  "fx_tracer_speed": 175.0,
+  "samples": 3
+ },
+ "fx_maxim_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 75.0,
+  "samples": 3
+ },
+ "fx_mosin_nagant_rifle_tracer": {
+  "fx_munition_name": "bullet",
+  "fx_tracer_speed": 120.0,
+  "samples": 11
+ },
+ "fx_mosin_nagant_sniper_tracer": {
+  "fx_munition_name": "sniper",
+  "fx_tracer_speed": 120.0,
+  "samples": 5
+ },
+ "fx_pintle_dshk38_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 7
+ },
+ "fx_ptrs41_tracer": {
+  "fx_munition_name": "mg_phosphorus",
+  "fx_tracer_speed": 0.0,
+  "samples": 9
+ },
+ "fx_pzb39_tracer": {
+  "fx_munition_name": "mg_phosphorus",
+  "fx_tracer_speed": 0.0,
+  "samples": 2
+ },
+ "fx_quad_hmg_tracer": {
+  "fx_munition_name": "hmg_large",
+  "fx_tracer_speed": 120.0,
+  "samples": 2
+ },
+ "fx_sten_tracer": {
+  "fx_munition_name": "smg",
+  "fx_tracer_speed": 55.0,
+  "samples": 3
+ },
+ "fx_sten_tracer_silencer": {
+  "fx_munition_name": "smg",
+  "fx_tracer_speed": 50.0,
+  "samples": 1
+ },
+ "fx_stuka20mm_tracer": {
+  "fx_munition_name": "flak",
+  "fx_tracer_speed": 0.0,
+  "samples": 9
+ },
+ "fx_stukahmg_rw_tracer": {
+  "fx_munition_name": "hmg_large",
+  "fx_tracer_speed": 0.0,
+  "samples": 8
+ },
+ "fx_tracer_20mm": {
+  "fx_munition_name": "flak_dense_small",
+  "fx_tracer_speed": 120.0,
+  "samples": 1
+ },
+ "fx_tracer_20mm_burst": {
+  "fx_munition_name": "flak_dense_small",
+  "fx_tracer_speed": 120.0,
+  "samples": 2
+ },
+ "kar98_tracer": {
+  "fx_munition_name": "bullet",
+  "fx_tracer_speed": 75.0,
+  "samples": 13
+ },
+ "lmg_dp28_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 6
+ },
+ "lmg_vickers_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 3
+ },
+ "m1_carbine_tracer": {
+  "fx_munition_name": "bullet",
+  "fx_tracer_speed": 120.0,
+  "samples": 6
+ },
+ "m2hb50cal_tracer": {
+  "fx_munition_name": "hmg_large",
+  "fx_tracer_speed": 120.0,
+  "samples": 18
+ },
+ "mg42_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 12
+ },
+ "mg42_turret_mounted_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 220.0,
+  "samples": 10
+ },
+ "mg42lmg_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 5
+ },
+ "mosin_nagant_sniper_tracer": {
+  "fx_munition_name": "sniper",
+  "fx_tracer_speed": 120.0,
+  "samples": 1
+ },
+ "mp40_tracer": {
+  "fx_munition_name": "smg",
+  "fx_tracer_speed": 120.0,
+  "samples": 18
+ },
+ "mp44_default_tracer": {
+  "fx_munition_name": "smg",
+  "fx_tracer_speed": 120.0,
+  "samples": 2
+ },
+ "mp44_infrared_tracer": {
+  "fx_munition_name": "smg",
+  "fx_tracer_speed": 120.0,
+  "samples": 3
+ },
+ "nagant_pistol_target": {
+  "fx_munition_name": "pistol",
+  "fx_tracer_speed": 120.0,
+  "samples": 4
+ },
+ "pintle_dshk38_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 2
+ },
+ "pintle_m2hb50cal_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 3
+ },
+ "pintle_mg34_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 220.0,
+  "samples": 2
+ },
+ "pintle_mg42_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 220.0,
+  "samples": 16
+ },
+ "pintle_rear_m1919a4_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 2
+ },
+ "pintle_rear_mg42_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 4
+ },
+ "pintle_vickers_k_tracer": {
+  "fx_munition_name": "hmg",
+  "fx_tracer_speed": 120.0,
+  "samples": 7
+ },
+ "pistol_l_tracer": {
+  "fx_munition_name": "pistol",
+  "fx_tracer_speed": 120.0,
+  "samples": 2
+ },
+ "pistol_r_tracer": {
+  "fx_munition_name": "pistol",
+  "fx_tracer_speed": 120.0,
+  "samples": 2
+ },
+ "pistol_tracer": {
+  "fx_munition_name": "pistol",
+  "fx_tracer_speed": 120.0,
+  "samples": 4
+ },
+ "smg_m3_greasegun_tracer": {
+  "fx_munition_name": "smg",
+  "fx_tracer_speed": 55.0,
+  "samples": 2
+ },
+ "smg_ppsh41_tracer": {
+  "fx_munition_name": "smg",
+  "fx_tracer_speed": 200.0,
+  "samples": 5
+ },
+ "smg_thompson_tracer": {
+  "fx_munition_name": "smg",
+  "fx_tracer_speed": 50.0,
+  "samples": 5
+ },
+ "svt40_tracer": {
+  "fx_munition_name": "bullet",
+  "fx_tracer_speed": 120.0,
+  "samples": 4
+ }
+}
