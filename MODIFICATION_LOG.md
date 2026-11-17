@@ -1,11 +1,11 @@
-# Modification log – Vanilla+ 1.0.0
+# Modification log – COH2 V+ Mod 1.0.0
 
 Base: Kriegspiel V5 – Realism Overhaul (Workshop 2162940169), SGA v7 with 4,360 files.
 Output: `output/VanillaPlus.sga`, with 4,382 files (757 changed or added). Every old→new value is in `reports/*.csv`.
 
 ## 1. Damage mechanics (restored)
 
-| Item | Kriegspiel | Personal build (old) | Vanilla+ |
+| Item | Kriegspiel | Personal build (old) | COH2 V+ Mod |
 |---|---|---|---|
 | MG / AT-rifle `weapon_bag/projectile` | `bullet_*_mp` | removed (hitscan) | **original `bullet_*_mp`** |
 | Infantry `weapon_bag/projectile` | `bullet_*_mp` | removed | `bullet_*_inf_mp` (same bullet, model hidden) |
@@ -57,5 +57,5 @@ can hit another soldier. Hitscan kept only the aimed hit, so effective damage dr
 
 ## 7. Identity
 - New GUID `000a73d70e7a4afb86e5c04167fcd04e`. It replaces Kriegspiel's in every reference, so the two can be installed side by side.
-- `.info`: name "Vanilla+" and a new description with credits. Kriegspiel's preview `kspfp.tga` is still inside.
+- `.info`: name "COH2 V+ Mod" and a new description with credits. Kriegspiel's preview `kspfp.tga` is still inside.
   The Workshop preview banner is `workshop/preview_banner.jpg`.

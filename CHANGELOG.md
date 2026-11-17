@@ -1,6 +1,6 @@
 # Changelog
 
-## 1.0.0 (2026-11-17), first Vanilla+ build
+## 1.0.0 (2026-11-17), first COH2 V+ Mod build
 
 ### Fixed
 - Machine guns were weak in the earlier personal build because it had removed Kriegspiel's
@@ -22,4 +22,4 @@
 ### Added
 - **Radio Man** upgrade (60 munitions, 20 s, once per squad) on 18 support-weapon squads across all
   5 factions. It adds a radio-guided copy of the gun's own weapon on hardpoint_08.
-- New mod identity: name "Vanilla+", own GUID, own description with credits.
+- New mod identity: name "COH2 V+ Mod", own GUID, own description with credits.

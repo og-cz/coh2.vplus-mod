@@ -20,16 +20,15 @@ MOD = os.path.join(ROOT, 'modified')
 OUT = os.path.join(ROOT, 'output', 'VanillaPlus.sga')
 
 DESCRIPTION = (
-    "Vanilla+ v%s - built on Kriegspiel V5 - Realism Overhaul by RebelSoldier.\\n\\n"
-    "Keeps Kriegspiel's gameplay and damage model (physical bullets, criticals, morale, AI), and adds:\\n"
-    "- Cleaner, vanilla-style gunfire: infantry rifles/SMGs fire subtle rounds, machine guns keep heavy tracers\\n"
-    "- Vanilla impact effects instead of the phosphorus/custom ones\\n"
-    "- Weapon ranges -20%% (less extreme engagement distances)\\n"
-    "- Aggressive AI that keeps attacking fortified lines, flanks and uses smoke/artillery\\n"
-    "- Radio Man: optional 60 munition upgrade for mortars, infantry guns and howitzers (smart target priority)\\n"
-    "- Performance pass for big battles (no terrain crater per bullet / shrapnel fragment)\\n\\n"
-    "Credits: Kriegspiel V5 - Realism Overhaul (c) RebelSoldier - https://steamcommunity.com/sharedfiles/filedetails/?id=2162940169\\n"
-    "Company of Heroes 2 (c) Relic Entertainment / SEGA."
+    "COH2 V+ Mod v%s - an ambitious overhaul for bigger, more aggressive warfare.\\n\\n"
+    "- Real bullets: every round flies downrange and can hit whoever is behind the target\\n"
+    "- Subtle infantry fire, heavy visible tracers for every machine gun (infantry and vehicles)\\n"
+    "- Realistic engagement ranges and deadly shrapnel\\n"
+    "- Aggressive AI that keeps attacking fortified lines, flanks, smokes MGs and calls artillery\\n"
+    "- Radio Man: optional 60 munition upgrade for mortars, infantry guns and howitzers\\n"
+    "- Performance pass for huge battles\\n\\n"
+    "Coming: more units, more detailed soldiers and real historical tank variants.\\n\\n"
+    "Credits: RebelSoldier (original realism overhaul). Company of Heroes 2 (c) Relic Entertainment / SEGA."
 ) % ID['version']
 
 def guid_swap(b):
