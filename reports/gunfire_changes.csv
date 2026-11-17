@@ -1,185 +1,185 @@
 file,class,fx_tracer_name,old_projectile,new_projectile,old_tracer_speed,new_tracer_speed,old_munition,new_munition
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50_cal_api_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,machine_gun,fx_dshk38_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,machine_gun,fx_hmg_turret_tracer02,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,machine_gun,fx_hmg_turret_tracer01,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,machine_gun,fx_maxim_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,75.0,mg_phosphorus,hmg
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,machine_gun,fx_maxim_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,75.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,machine_gun,fx_hmg_rw_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,0.0,mg_phosphorus,20mmshell
-weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,machine_gun,fx_hmg_turret_tracer75,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,machine_gun,fx_lmg_1919a6_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,machine_gun,mg42lmg_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,machine_gun,fx_lmg_1919a6_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,machine_gun,fx_bar_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,55.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,machine_gun,fx_hmg_turret_tracer105,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,machine_gun,fx_hmg_turret_tracer75,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,hmg,hmg
-weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_crew_mp.rgd,infantry,smg_thompson_tracer,bullet_45_cal_mp,bullet_45_cal_inf_mp,285.0,50.0,smg,smg
-weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_elite_mp.rgd,infantry,smg_thompson_tracer,bullet_45_cal_mp,bullet_45_cal_inf_mp,285.0,50.0,smg,smg
-weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_regular_mp.rgd,infantry,smg_thompson_tracer,bullet_45_cal_mp,bullet_45_cal_inf_mp,285.0,50.0,smg,smg
-weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_veteran_mp.rgd,infantry,smg_thompson_tracer,bullet_45_cal_mp,bullet_45_cal_inf_mp,285.0,50.0,smg,smg
-weapon/aef/small_arms/machine_gun/sub_machine_gun/m3_grease_gun_crew_mp.rgd,infantry,smg_m3_greasegun_tracer,bullet_45_cal_mp,bullet_45_cal_inf_mp,285.0,55.0,smg,smg
-weapon/aef/small_arms/single_fire/pistol/m1911_colt_pistol_mp.rgd,infantry,fx_1911_pistol_tracer,bullet_45_cal_mp,bullet_45_cal_inf_mp,285.0,120.0,pistol,pistol
-weapon/aef/small_arms/single_fire/rifle/m1_carbine_crew_mp.rgd,infantry,m1_carbine_tracer,bullet_30_cal_carbine_mp,bullet_30_cal_carbine_inf_mp,600.0,120.0,smg,bullet
-weapon/aef/small_arms/single_fire/rifle/m1_carbine_elite_mp.rgd,infantry,m1_carbine_tracer,bullet_30_cal_carbine_mp,bullet_30_cal_carbine_inf_mp,600.0,120.0,smg,bullet
-weapon/aef/small_arms/single_fire/rifle/m1_carbine_regular_mp.rgd,infantry,m1_carbine_tracer,bullet_30_cal_carbine_mp,bullet_30_cal_carbine_inf_mp,600.0,120.0,smg,bullet
-weapon/aef/small_arms/single_fire/rifle/m1_carbine_veteran_mp.rgd,infantry,m1_carbine_tracer,bullet_30_cal_carbine_mp,bullet_30_cal_carbine_inf_mp,600.0,120.0,smg,bullet
-weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_crew_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_inf_mp,850.0,120.0,bullet,bullet
-weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_elite_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_inf_mp,850.0,120.0,bullet,bullet
-weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_regular_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_inf_mp,850.0,120.0,bullet,bullet
-weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_scoped_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_inf_mp,850.0,120.0,bullet,bullet
-weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_sniper_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_inf_mp,850.0,120.0,sniper,bullet
-weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_veteran_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_inf_mp,850.0,120.0,bullet,bullet
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50_cal_api_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla aef_base_m2hb_50cal_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla aef_base_m2hb_50cal_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla dodge_wc51_m1917_30cal_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla dodge_wc51_m2hb_50cal_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m15a1_aa_half_track_50cal_left_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m15a1_aa_half_track_50cal_right_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m1919a4_30cal_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m1919a4_30cal_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m20_utility_car_m2hb_50cal_mounted_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m2hb_50cal_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m2hb_50cal_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m3_halftrack_m2hb_50cal_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m7b1_priest_m2hb_50cal_mounted_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m8_greyhound_m2hb_50cal_mounted_mp)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,machine_gun,,bullet,"(hitscan, vanilla p47_50cal_machineguns)",,,,
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla sherman_m10_m36_m2hb_50cal_mounted_tank_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m5a1_stuart_m1919a4_30_cal_coaxial_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m5a1_stuart_m1919a4_30_cal_hull_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m8_greyhound_coaxial_vehicle_turret_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m8_greyhound_m1919a4_30cal_coaxial_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla paratrooper_m1919a6_lmg_moving_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla pershing_coaxial_vehicle_turret_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla pershing_vehicle_hull_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla riflemen_30cal_lmg_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla riflemen_30cal_lmg_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla riflemen_bar_30_06_light_machine_gun_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla sherman_m4a3_coaxial_vehicle_turret105_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla sherman_m4a3_coaxial_vehicle_turret_mp)",,,,
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla sherman_m4a3_vehicle_hull_mp)",,,,
+weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_crew_mp.rgd,infantry,smg_thompson_tracer,bullet_45_cal_mp,bullet_45_cal_mp,285.0,50.0,smg,smg
+weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_elite_mp.rgd,infantry,smg_thompson_tracer,bullet_45_cal_mp,bullet_45_cal_mp,285.0,50.0,smg,smg
+weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_regular_mp.rgd,infantry,smg_thompson_tracer,bullet_45_cal_mp,bullet_45_cal_mp,285.0,50.0,smg,smg
+weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_veteran_mp.rgd,infantry,smg_thompson_tracer,bullet_45_cal_mp,bullet_45_cal_mp,285.0,50.0,smg,smg
+weapon/aef/small_arms/machine_gun/sub_machine_gun/m3_grease_gun_crew_mp.rgd,infantry,smg_m3_greasegun_tracer,bullet_45_cal_mp,bullet_45_cal_mp,285.0,55.0,smg,smg
+weapon/aef/small_arms/single_fire/pistol/m1911_colt_pistol_mp.rgd,infantry,fx_1911_pistol_tracer,bullet_45_cal_mp,bullet_45_cal_mp,285.0,120.0,pistol,pistol
+weapon/aef/small_arms/single_fire/rifle/m1_carbine_crew_mp.rgd,infantry,m1_carbine_tracer,bullet_30_cal_carbine_mp,bullet_30_cal_carbine_mp,600.0,120.0,smg,bullet
+weapon/aef/small_arms/single_fire/rifle/m1_carbine_elite_mp.rgd,infantry,m1_carbine_tracer,bullet_30_cal_carbine_mp,bullet_30_cal_carbine_mp,600.0,120.0,smg,bullet
+weapon/aef/small_arms/single_fire/rifle/m1_carbine_regular_mp.rgd,infantry,m1_carbine_tracer,bullet_30_cal_carbine_mp,bullet_30_cal_carbine_mp,600.0,120.0,smg,bullet
+weapon/aef/small_arms/single_fire/rifle/m1_carbine_veteran_mp.rgd,infantry,m1_carbine_tracer,bullet_30_cal_carbine_mp,bullet_30_cal_carbine_mp,600.0,120.0,smg,bullet
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_crew_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,bullet,bullet
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_elite_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,bullet,bullet
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_regular_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,bullet,bullet
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_scoped_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,bullet,bullet
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_sniper_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,sniper,bullet
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_veteran_mp.rgd,infantry,fx_garand_rifle_tracer,bullet_30_cal_mp,bullet_30_cal_mp,850.0,120.0,bullet,bullet
 weapon/axis/ballistic_weapon/infantry_anti_tank_weapon/panzerbusche_39_mp.rgd,at_rifle,fx_pzb39_tracer,bullet_792x94mm_api_mp,bullet_792x94mm_api_mp,1210.0,0.0,sniper_antitank,mg_phosphorus
-weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,machine_gun,mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,machine_gun,mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,machine_gun,fx_stukahmg_rw_tracer,bullet_792x57mm_api_mp,bullet_792x57mm_api_mp,850.0,0.0,hmg_large,hmg_large
-weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,machine_gun,fx_stukahmg_rw_tracer,bullet_792x57mm_api_mp,bullet_792x57mm_api_mp,850.0,0.0,hmg_large,hmg_large
-weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,machine_gun,pintle_rear_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,machine_gun,mg42lmg_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,machine_gun,mg42_turret_mounted_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,machine_gun,mg42_turret_mounted_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,machine_gun,mg42_turret_mounted_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_civilian_mp.rgd,infantry,mp40_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,120.0,smg,smg
-weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_crew_mp.rgd,infantry,mp40_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,120.0,smg,smg
-weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_elite_mp.rgd,infantry,mp40_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,120.0,smg,smg
-weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_regular_mp.rgd,infantry,mp40_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,120.0,smg,smg
-weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_veteran_mp.rgd,infantry,mp40_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,120.0,smg,smg
-weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_civilian_carbine_mp.rgd,infantry,mp40_tracer,bullet_792x33mm_mp,bullet_792x33mm_inf_mp,685.0,120.0,smg,smg
-weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_elite_carbine_mp.rgd,infantry,mp40_tracer,bullet_792x33mm_mp,bullet_792x33mm_inf_mp,685.0,120.0,smg,smg
-weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_regular_carbine_mp.rgd,infantry,mp40_tracer,bullet_792x33mm_mp,bullet_792x33mm_inf_mp,685.0,120.0,smg,smg
-weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_veteran_carbine_mp.rgd,infantry,mp40_tracer,bullet_792x33mm_mp,bullet_792x33mm_inf_mp,685.0,120.0,smg,smg
-weapon/axis/small_arms/single_fire/pistol/p08_luger_pistol_mp.rgd,infantry,pistol_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,120.0,pistol,pistol
-weapon/axis/small_arms/single_fire/rifle/g43_rifle_elite_mp.rgd,infantry,fx_g34_sniperfire_tracer,bullet_792x57mm_mp,bullet_792x57mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/axis/small_arms/single_fire/rifle/g43_rifle_regular_mp.rgd,infantry,fx_g34_sniperfire_tracer,bullet_792x57mm_mp,bullet_792x57mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/axis/small_arms/single_fire/rifle/g43_rifle_scoped_mp.rgd,infantry,fx_g34_sniperfire_tracer,bullet_792x57mm_mp,bullet_792x57mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/axis/small_arms/single_fire/rifle/g43_rifle_sniper_mp.rgd,infantry,fx_g34_sniperfire_tracer,bullet_792x57mm_mp,bullet_792x57mm_inf_mp,850.0,120.0,sniper,bullet
-weapon/axis/small_arms/single_fire/rifle/g43_rifle_veteran_mp.rgd,infantry,fx_g34_sniperfire_tracer,bullet_792x57mm_mp,bullet_792x57mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_civilian_mp.rgd,infantry,kar98_tracer,bullet_792x57mm_mp,bullet_792x57mm_inf_mp,850.0,75.0,bullet,bullet
-weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_crew_mp.rgd,infantry,kar98_tracer,bullet_792x57mm_mp,bullet_792x57mm_inf_mp,850.0,75.0,bullet,bullet
-weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_elite_mp.rgd,infantry,kar98_tracer,bullet_792x57mm_mp,bullet_792x57mm_inf_mp,850.0,75.0,bullet,bullet
-weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_regular_mp.rgd,infantry,kar98_tracer,bullet_792x57mm_mp,bullet_792x57mm_inf_mp,850.0,75.0,bullet,bullet
-weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_veteran_mp.rgd,infantry,kar98_tracer,bullet_792x57mm_mp,bullet_792x57mm_inf_mp,850.0,75.0,bullet,bullet
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla bunker_mg42_mp)",,,,
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla bunker_mg42_mp)",,,,
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla hmg_team_mg42_mp)",,,,
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla hmg_team_mg42_mp)",,,,
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,machine_gun,,bullet,"(hitscan, vanilla stuka_mg_17)",,,,
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla stuka_mg_17_strafe_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla _halftrack_mg42_vehicle_rear_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla grenadier_mg42lmg_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla halftrack_250_mg42_vehicle_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla halftrack_mg42_vehicle_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg34_coaxial_generic_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg34_coaxial_generic_tigerace_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg34_hull_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg42_turret_mounted_brummbar_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg42_turret_mounted_panther_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg42_turret_mounted_panzerwerfer_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg42_turret_mounted_pziv_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg42_turret_mounted_stugiv_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla ostwind_mg34_hull_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla puma_mg42_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla scout_car_mg34_coaxial_generic_mp)",,,,
+weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla scout_car_mg34_pintle_generic_mp)",,,,
+weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_civilian_mp.rgd,infantry,mp40_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,120.0,smg,smg
+weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_crew_mp.rgd,infantry,mp40_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,120.0,smg,smg
+weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_elite_mp.rgd,infantry,mp40_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,120.0,smg,smg
+weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_regular_mp.rgd,infantry,mp40_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,120.0,smg,smg
+weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_veteran_mp.rgd,infantry,mp40_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,120.0,smg,smg
+weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_civilian_carbine_mp.rgd,infantry,mp40_tracer,bullet_792x33mm_mp,bullet_792x33mm_mp,685.0,120.0,smg,smg
+weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_elite_carbine_mp.rgd,infantry,mp40_tracer,bullet_792x33mm_mp,bullet_792x33mm_mp,685.0,120.0,smg,smg
+weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_regular_carbine_mp.rgd,infantry,mp40_tracer,bullet_792x33mm_mp,bullet_792x33mm_mp,685.0,120.0,smg,smg
+weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_veteran_carbine_mp.rgd,infantry,mp40_tracer,bullet_792x33mm_mp,bullet_792x33mm_mp,685.0,120.0,smg,smg
+weapon/axis/small_arms/single_fire/pistol/p08_luger_pistol_mp.rgd,infantry,pistol_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,120.0,pistol,pistol
+weapon/axis/small_arms/single_fire/rifle/g43_rifle_elite_mp.rgd,infantry,fx_g34_sniperfire_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,bullet,bullet
+weapon/axis/small_arms/single_fire/rifle/g43_rifle_regular_mp.rgd,infantry,fx_g34_sniperfire_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,bullet,bullet
+weapon/axis/small_arms/single_fire/rifle/g43_rifle_scoped_mp.rgd,infantry,fx_g34_sniperfire_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,bullet,bullet
+weapon/axis/small_arms/single_fire/rifle/g43_rifle_sniper_mp.rgd,infantry,fx_g34_sniperfire_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,sniper,bullet
+weapon/axis/small_arms/single_fire/rifle/g43_rifle_veteran_mp.rgd,infantry,fx_g34_sniperfire_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,bullet,bullet
+weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_civilian_mp.rgd,infantry,kar98_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,75.0,bullet,bullet
+weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_crew_mp.rgd,infantry,kar98_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,75.0,bullet,bullet
+weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_elite_mp.rgd,infantry,kar98_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,75.0,bullet,bullet
+weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_regular_mp.rgd,infantry,kar98_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,75.0,bullet,bullet
+weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_veteran_mp.rgd,infantry,kar98_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,75.0,bullet,bullet
 weapon/british/ballistic_weapon/infantry_anti_tank_weapon/8mm_model_35_atr_mp.rgd,at_rifle,fx_pzb39_tracer,bullet_792x107mm_api_mp,bullet_792x107mm_api_mp,1210.0,0.0,sniper_antitank,mg_phosphorus
 weapon/british/ballistic_weapon/infantry_anti_tank_weapon/boys_at_rifle_mp.rgd,at_rifle,fx_ptrs41_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,880.0,0.0,sniper_antitank,mg_phosphorus
-weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,machine_gun,pintle_vickers_k_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,bullet,hmg
-weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,machine_gun,pintle_vickers_k_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,bullet,hmg
-weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,machine_gun,fx_fire_bren_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,50.0,hmg,hmg
-weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,machine_gun,pintle_vickers_k_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,machine_gun,lmg_vickers_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,bullet,hmg
-weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,machine_gun,lmg_vickers_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,bullet,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,machine_gun,pintle_vickers_k_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,machine_gun,pintle_vickers_k_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,machine_gun,lmg_vickers_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,machine_gun,fx_lmg_bren_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,machine_gun,lmg_dp28_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,hmg,hmg
-weapon/british/small_arms/machine_gun/sub_machine_gun/churchill_hull_defense_gun_left_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,55.0,smg,smg
-weapon/british/small_arms/machine_gun/sub_machine_gun/churchill_hull_defense_gun_right_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,55.0,smg,smg
-weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_crew_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,55.0,smg,smg
-weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_elite_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,55.0,smg,smg
-weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_regular_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,55.0,smg,smg
-weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_veteran_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,55.0,smg,smg
-weapon/british/small_arms/machine_gun/sub_machine_gun/sten_suppressed_elite_mp.rgd,infantry,fx_sten_tracer_silencer,bullet_9x19mm_mp,bullet_9x19mm_inf_mp,400.0,50.0,smg,smg
-weapon/british/small_arms/single_fire/rifle/lee_enfield_crew_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_inf_mp,745.0,120.0,bullet,bullet
-weapon/british/small_arms/single_fire/rifle/lee_enfield_elite_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_inf_mp,745.0,120.0,bullet,bullet
-weapon/british/small_arms/single_fire/rifle/lee_enfield_regular_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_inf_mp,745.0,120.0,bullet,bullet
-weapon/british/small_arms/single_fire/rifle/lee_enfield_scoped_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_inf_mp,745.0,120.0,bullet,bullet
-weapon/british/small_arms/single_fire/rifle/lee_enfield_sniper_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_inf_mp,745.0,120.0,sniper,bullet
-weapon/british/small_arms/single_fire/rifle/lee_enfield_veteran_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_inf_mp,745.0,120.0,bullet,bullet
+weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla bunker_vickers_hmg_mp)",,,,
+weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla bunker_vickers_hmg_mp)",,,,
+weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla sexton_mounted_machinegun_mp)",,,,
+weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla universal_carrier_bren_lmg_mp)",,,,
+weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla universal_carrier_vickers_mmg_mounted_mp)",,,,
+weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla vickers_hmg_mp)",,,,
+weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla vickers_hmg_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla aec_coaxial_vehicle_turret_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla tank_vickers_k_pintle_mount_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla churchill_mk7_coaxial_vehicle_turret_avre_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla churchill_mk7_coaxial_vehicle_turret_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla churchill_mk7_vehicle_hull_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla churchill_vickers_k_mount_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla comet_coaxial_vehicle_turret_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla comet_vehicle_hull_gun_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla infantry_vickers_k_machine_gun_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla cromwell_coaxial_vehicle_turret_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla cromwell_vehicle_hull_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla sherman_firefly_coaxial_vehicle_turret_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla tommy_bren_light_machine_gun_mp)",,,,
+weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla tommy_bren_light_machine_gun_mp)",,,,
+weapon/british/small_arms/machine_gun/sub_machine_gun/churchill_hull_defense_gun_left_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,55.0,smg,smg
+weapon/british/small_arms/machine_gun/sub_machine_gun/churchill_hull_defense_gun_right_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,55.0,smg,smg
+weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_crew_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,55.0,smg,smg
+weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_elite_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,55.0,smg,smg
+weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_regular_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,55.0,smg,smg
+weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_veteran_mp.rgd,infantry,fx_sten_tracer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,55.0,smg,smg
+weapon/british/small_arms/machine_gun/sub_machine_gun/sten_suppressed_elite_mp.rgd,infantry,fx_sten_tracer_silencer,bullet_9x19mm_mp,bullet_9x19mm_mp,400.0,50.0,smg,smg
+weapon/british/small_arms/single_fire/rifle/lee_enfield_crew_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,bullet,bullet
+weapon/british/small_arms/single_fire/rifle/lee_enfield_elite_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,bullet,bullet
+weapon/british/small_arms/single_fire/rifle/lee_enfield_regular_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,bullet,bullet
+weapon/british/small_arms/single_fire/rifle/lee_enfield_scoped_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,bullet,bullet
+weapon/british/small_arms/single_fire/rifle/lee_enfield_sniper_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,sniper,bullet
+weapon/british/small_arms/single_fire/rifle/lee_enfield_veteran_mp.rgd,infantry,fx_lee_enfield_tracer,bullet_303_cal_mp,bullet_303_cal_mp,745.0,120.0,bullet,bullet
 weapon/soviet/ballistic_weapon/infantry_anti_tank_weapon/conscipt_ptrs_41_mp.rgd,at_rifle,fx_ptrs41_tracer,bullet_145x114mm_api_mp,bullet_145x114mm_api_mp,850.0,0.0,sniper_antitank,mg_phosphorus
 weapon/soviet/ballistic_weapon/infantry_anti_tank_weapon/ptrd_41_anti_tank_rifle_mp.rgd,at_rifle,fx_ptrs41_tracer,bullet_145x114mm_api_mp,bullet_145x114mm_api_mp,850.0,0.0,sniper_antitank,mg_phosphorus
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,machine_gun,pintle_dshk38_tracer,bullet_127x108mm_api_mp,bullet_127x108mm_api_mp,850.0,120.0,mg_phosphorus,hmg
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,machine_gun,pintle_dshk38_tracer,bullet_127x108mm_api_mp,bullet_127x108mm_api_mp,850.0,120.0,mg_phosphorus,hmg
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,machine_gun,pintle_dshk38_tracer,bullet_127x108mm_api_mp,bullet_127x108mm_api_mp,850.0,120.0,mg_phosphorus,hmg
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,machine_gun,pintle_dshk38_tracer,bullet_127x108mm_api_mp,bullet_127x108mm_api_mp,850.0,120.0,mg_phosphorus,hmg
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,machine_gun,pintle_dshk38_tracer,bullet_127x108mm_api_mp,bullet_127x108mm_api_mp,850.0,120.0,mg_phosphorus,hmg
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,machine_gun,pintle_dshk38_tracer,bullet_127x108mm_api_mp,bullet_127x108mm_api_mp,850.0,120.0,mg_phosphorus,hmg
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,machine_gun,m2hb50cal_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,machine_gun,fx_quad_hmg_tracer,bullet_50_cal_api_mp,bullet_50_cal_api_mp,850.0,120.0,mg_phosphorus,hmg_large
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,machine_gun,fx_maxim_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,75.0,mg_phosphorus,hmg
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,machine_gun,fx_maxim_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,75.0,hmg,hmg
-weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,machine_gun,pintle_dshk38_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,hmg,hmg
-weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,hmg,hmg
-weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,hmg,hmg
-weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,machine_gun,fx_hmg_turret_rear_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,hmg,hmg
-weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,machine_gun,lmg_dp28_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,hmg,hmg
-weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,machine_gun,fx_hmg_rw_tracer,bullet_762x54mm_api_mp,bullet_762x54mm_api_mp,850.0,0.0,hmg,20mmshell
-weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,hmg,hmg
-weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,hmg,hmg
-weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,hmg,hmg
-weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_civilian_mp.rgd,infantry,smg_ppsh41_tracer,bullet_762x25mm_mp,bullet_762x25mm_inf_mp,400.0,200.0,smg,smg
-weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_crew_mp.rgd,infantry,smg_ppsh41_tracer,bullet_762x25mm_mp,bullet_762x25mm_inf_mp,400.0,200.0,smg,smg
-weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_elite_mp.rgd,infantry,smg_ppsh41_tracer,bullet_762x25mm_mp,bullet_762x25mm_inf_mp,400.0,200.0,smg,smg
-weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_regular_mp.rgd,infantry,smg_ppsh41_tracer,bullet_762x25mm_mp,bullet_762x25mm_inf_mp,400.0,200.0,smg,smg
-weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_veteran_mp.rgd,infantry,smg_ppsh41_tracer,bullet_762x25mm_mp,bullet_762x25mm_inf_mp,400.0,200.0,smg,smg
-weapon/soviet/small_arms/single_fire/pistol/nagant_m1895_revolver_mp.rgd,infantry,nagant_pistol_target,bullet_45_cal_mp,bullet_45_cal_inf_mp,120.0,120.0,pistol,pistol
-weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_civilian_mp.rgd,infantry,fx_mosin_nagant_rifle_tracer,bullet_762x54mm_mp,bullet_762x54mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_crew_mp.rgd,infantry,fx_mosin_nagant_rifle_tracer,bullet_762x54mm_mp,bullet_762x54mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_elite_mp.rgd,infantry,fx_mosin_nagant_rifle_tracer,bullet_762x54mm_mp,bullet_762x54mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_regular_mp.rgd,infantry,fx_mosin_nagant_rifle_tracer,bullet_762x54mm_mp,bullet_762x54mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_sniper_mp.rgd,infantry,fx_mosin_nagant_sniper_tracer,bullet_762x54mm_mp,bullet_762x54mm_inf_mp,850.0,120.0,sniper,sniper
-weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_veteran_mp.rgd,infantry,fx_mosin_nagant_rifle_tracer,bullet_762x54mm_mp,bullet_762x54mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/soviet/small_arms/single_fire/rifle/svt_rifle_civilian_mp.rgd,infantry,svt40_tracer,bullet_762x54mm_mp,bullet_762x54mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/soviet/small_arms/single_fire/rifle/svt_rifle_elite_mp.rgd,infantry,svt40_tracer,bullet_762x54mm_mp,bullet_762x54mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/soviet/small_arms/single_fire/rifle/svt_rifle_regular_mp.rgd,infantry,svt40_tracer,bullet_762x54mm_mp,bullet_762x54mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/soviet/small_arms/single_fire/rifle/svt_rifle_veteran_mp.rgd,infantry,svt40_tracer,bullet_762x54mm_mp,bullet_762x54mm_inf_mp,850.0,120.0,bullet,bullet
-weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,machine_gun,fx_lmg_mg34_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,machine_gun,mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,machine_gun,fx_fg42_rifle_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,machine_gun,pintle_mg34_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,machine_gun,fx_pintle_dshk38_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,machine_gun,fx_pintle_dshk38_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,machine_gun,pintle_mg34_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,240.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,machine_gun,fx_hmg_hull_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,220.0,220.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,machine_gun,mg42_turret_mounted_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,machine_gun,mg42_turret_mounted_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,machine_gun,fx_lmg_mg34_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,machine_gun,fx_hmg_turret_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,machine_gun,pintle_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,220.0,hmg,hmg
-weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,machine_gun,pintle_rear_mg42_tracer,bullet_792x57mm_mp,bullet_792x57mm_mp,850.0,120.0,hmg,hmg
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla bunker_starting_position_dshk_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla bunker_starting_position_dshk_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla dshk_38_pintle_mounted_tank_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla dshk_38_sokolov_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla dshk_38_sokolov_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla stuka_mg_17_strafe_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m3a1_scout_car_m2hb_hmg_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m5_halftrack_m2hb_hmg_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla m5_halftrack_quad_50_cal_m2hb_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla maxim_m1910_hmg_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla maxim_m1910_hmg_mp)",,,,
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla maxim_m1910_hmg_mp)",,,,
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla coaxial_vehicle_hull_mp)",,,,
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla coaxial_vehicle_turret_mp)",,,,
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla coaxial_vehicle_turret_rear_mp)",,,,
+weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla guard_troop_dp-28_light_machine_gun_mp)",,,,
+weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla stuka_mg_17_strafe_mp)",,,,
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla t-70m_coaxial_vehicle_mp)",,,,
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla t34_76_85_coaxial_vehicle_hull_mp)",,,,
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla t34_76_85_coaxial_vehicle_turret_mp)",,,,
+weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_civilian_mp.rgd,infantry,smg_ppsh41_tracer,bullet_762x25mm_mp,bullet_762x25mm_mp,400.0,200.0,smg,smg
+weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_crew_mp.rgd,infantry,smg_ppsh41_tracer,bullet_762x25mm_mp,bullet_762x25mm_mp,400.0,200.0,smg,smg
+weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_elite_mp.rgd,infantry,smg_ppsh41_tracer,bullet_762x25mm_mp,bullet_762x25mm_mp,400.0,200.0,smg,smg
+weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_regular_mp.rgd,infantry,smg_ppsh41_tracer,bullet_762x25mm_mp,bullet_762x25mm_mp,400.0,200.0,smg,smg
+weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_veteran_mp.rgd,infantry,smg_ppsh41_tracer,bullet_762x25mm_mp,bullet_762x25mm_mp,400.0,200.0,smg,smg
+weapon/soviet/small_arms/single_fire/pistol/nagant_m1895_revolver_mp.rgd,infantry,nagant_pistol_target,bullet_45_cal_mp,bullet_45_cal_mp,120.0,120.0,pistol,pistol
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_civilian_mp.rgd,infantry,fx_mosin_nagant_rifle_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,bullet,bullet
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_crew_mp.rgd,infantry,fx_mosin_nagant_rifle_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,bullet,bullet
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_elite_mp.rgd,infantry,fx_mosin_nagant_rifle_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,bullet,bullet
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_regular_mp.rgd,infantry,fx_mosin_nagant_rifle_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,bullet,bullet
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_sniper_mp.rgd,infantry,fx_mosin_nagant_sniper_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,sniper,sniper
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_veteran_mp.rgd,infantry,fx_mosin_nagant_rifle_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,bullet,bullet
+weapon/soviet/small_arms/single_fire/rifle/svt_rifle_civilian_mp.rgd,infantry,svt40_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,bullet,bullet
+weapon/soviet/small_arms/single_fire/rifle/svt_rifle_elite_mp.rgd,infantry,svt40_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,bullet,bullet
+weapon/soviet/small_arms/single_fire/rifle/svt_rifle_regular_mp.rgd,infantry,svt40_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,bullet,bullet
+weapon/soviet/small_arms/single_fire/rifle/svt_rifle_veteran_mp.rgd,infantry,svt40_tracer,bullet_762x54mm_mp,bullet_762x54mm_mp,850.0,120.0,bullet,bullet
+weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla hmg_team_mg34_mp)",,,,
+weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla hmg_team_mg42_wg_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla fallschirmjager_gewehr_42_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla generic_mg34_coaxial_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla generic_mg34_hull_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla hetzer_mg34_pintle_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla jagdtiger_mg34_hull_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla jagdtiger_mg42_rear_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla jagdtiger_mg42_rear_upgrade_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla kubelwagen_mg34_pintle_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla luchs_mg34_mounted_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg34_coaxial_panzer2_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg42_hull_mounted_sturmtiger_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg42_turret_mounted_jagdpanzer_iv_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg42_turret_mounted_king_tiger_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla mg42_turret_mounted_panther_wg_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla obersoldaten_mg34_lmg_generic_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla scout_car_221_mg34_pintle_generic_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla sdkfz_234_mg42_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla sdkfz_250_mg34_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla sdkfz_251_mg42_mp)",,,,
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,machine_gun,,bullet,"(hitscan, vanilla sdkfz_251_mg42_rear_mp)",,,,

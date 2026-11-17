@@ -1,5 +1,26 @@
 # Changelog
 
+## 1.2.0 (2026-11-17)
+
+### Fixed
+- **Support weapons never fired with Radio Man.** The radio weapon was copied from Kriegspiel's hardpoint 1, which on most
+  mortars and the ML-20 is a range-1 placeholder. The upgrade also applied its modifiers to the squad instead of the gun.
+  Radio weapons are now copies of the real barrage / rocket weapon, and the upgrade enables them on the gun entity
+  (the vanilla slot-item pattern). The gun's own weapons are never switched off any more.
+- **Artillery built a ring of sandbags** when placed or spawned (e.g. with a spawner mod). The scripted spawns
+  (`AE_SpawnPak43Defenses`, `AE_SpawnSupplyTruckAccessory_1/2`) are removed from the le.FH 18, ML-20 and B-4.
+
+### Changed
+- **Machine guns: vanilla hit-scan, Kriegspiel damage.** All 114 machine guns drop the physical bullet. Hit chance, suppression,
+  scatter, aim, target choice and tracer look come from vanilla. Damage, penetration, criticals, rate of fire, burst,
+  cooldown, reload, cover and target tables stay Kriegspiel. HMG teams pin again.
+- **Radio Man = an extra soldier.** On crew-served guns the upgrade adds a forward observer (faction officer model).
+  Now also on rocket artillery (Land Mattress, Katyusha, Panzerwerfer, Calliope, Wurfrahmen) and Priest / Sexton
+  (radio set, no extra soldier). The in-game tooltip explains what it does.
+- **The AI may retreat again** (Kriegspiel fallback values). Forced retreats stay removed for everyone, so nothing
+  can make your squads retreat except your own order.
+- **Less AI grenade spam:** AI priority for frag / rifle grenades 85 -> 20, AT grenades 85 -> 40, smoke 50 -> 35.
+
 ## 1.1.0 (2026-11-17)
 
 ### Fixed
