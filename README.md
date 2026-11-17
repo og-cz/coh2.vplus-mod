@@ -1,15 +1,15 @@
-<div align="center">
+<img src="workshop/logo.jpg" alt="COH2 V+ Mod" width="420">
 
-# COH2 V+ Mod
+### Latest Release <a href="https://github.com/og-cz/coh2.vanilla-plus/releases/latest"><img src="https://img.shields.io/github/v/release/og-cz/coh2.vanilla-plus?style=for-the-badge&color=green" align="top"></a>
+[![Downloads](https://img.shields.io/github/downloads/og-cz/coh2.vanilla-plus/total?label=Downloads&color=6b5b3a)](https://github.com/og-cz/coh2.vanilla-plus/releases) [![Game](https://img.shields.io/badge/Company%20of%20Heroes%202-Tuning%20Pack-8b0000)](#installation) [![Platform](https://img.shields.io/badge/Platform-Windows-0078D6)](#installation) [![Factions](https://img.shields.io/badge/Factions-All%205-556b2f)](#features) [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](#building-from-source) [![Steam Workshop](https://img.shields.io/badge/Steam%20Workshop-Coming%20soon-1b2838?logo=steam&logoColor=white)](#installation)
+----
 
-<img src="workshop/logo.jpg" alt="COH2 V+ Mod" width="600">
+An ambitious, large-scale overhaul for Company of Heroes 2: real bullets, deadly machine guns and an enemy that attacks.
 
-**An ambitious, large-scale overhaul for Company of Heroes 2.**
-Real bullets. Deadly machine guns. An enemy that attacks. Built to grow into a bigger WW2 army.
+Version 1.0.0 · Skirmish and Custom Games · All 5 factions · Singleplayer and Multiplayer (tuning pack)
 
-`Tuning Pack` · `All 5 factions` · `Skirmish & Custom Games` · `Version 1.0.0`
-
-</div>
+<picture>![COH2 V+ Mod](docs/screenshots/screenshot.jpg)</picture>
+<sub>Screenshots coming soon.</sub>
 
 ---
 
