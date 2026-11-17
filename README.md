@@ -6,7 +6,7 @@
 
 An ambitious, large-scale overhaul for Company of Heroes 2: real bullets, deadly machine guns and an enemy that attacks.
 
-Version 1.2.0 · Skirmish and Custom Games · All 5 factions · Singleplayer and Multiplayer (tuning pack)
+Version 1.2.1 · Skirmish and Custom Games · All 5 factions · Singleplayer and Multiplayer (tuning pack)
 
 <picture>![COH2 V+ Mod](workshop/preview_banner.jpg)</picture>
 <sub>In-game screenshots coming soon.</sub>
@@ -66,7 +66,7 @@ Put images in docs/screenshots/ and add them here, for example:
 | | |
 |---|---|
 | **Real rifle bullets** | Every rifle, carbine and SMG round physically flies downrange. A missed shot keeps going and can hit the soldier behind your target, so firing into a crowd is deadly. |
-| **Machine guns that pin** | Every machine gun (HMG and LMG teams, tank, halftrack, car and aircraft MGs) fires classic CoH2 hit-scan bursts with the classic look, hit chance and suppression, so MG nests pin infantry again. Damage, penetration, rate of fire and criticals hit as hard as ever. |
+| **Machine guns that pin** | Every machine gun (HMG and LMG teams, tank, halftrack, car and aircraft MGs) fires classic CoH2 hit-scan bursts with the classic look, hit chance and suppression, so MG nests pin infantry first and then cut them down. Damage, penetration, rate of fire and criticals are Kriegspiel. Tanks shrug off MG fire; light cars and halftracks don't. |
 | **Subtle infantry fire** | Rifles, carbines, SMGs, pistols and snipers fire quick, low-key rounds, without big glowing tracers on every shot. |
 | **Vanilla impacts** | Classic CoH2 bullet impacts and tracer speeds. No phosphorus or other custom hit effects. |
 | **Deadly shrapnel** | Shells burst into fragments that kill. Cover and spacing matter. |
@@ -110,19 +110,19 @@ An optional **per-unit upgrade (60 munitions, 20 s)** for mortars, infantry guns
 On rocket trucks and self-propelled guns the crew gets the radio set instead (no extra soldier).
 
 **How it plays:** the weapon starts firing **single aimed rounds by itself** at enemies your army can see. It picks the most
-important target in range first: MG teams, AT guns, mortars, vehicles and garrisons. Infantry in the open come last. It is slow
-and deliberate, never a spam barrage. Your manual barrages, smoke and counter-barrage work exactly as before.
+important target in range first: MG teams, AT guns, mortars, vehicles and garrisons. Infantry in the open come last. It fires steadily
+like a normal weapon, never a spam barrage. Your manual barrages, smoke and counter-barrage work exactly as before.
 
 | Weapon | Radio Man gives | One round every |
 |---|---|---|
-| Light mortars (50 / 60 mm) | +1 observer, auto fire missions, +20% sight | 12 s |
-| Medium mortars (81 / 82 mm, 3-inch) | +1 observer, auto fire missions, +20% sight | 15 s |
-| Heavy mortars (107 / 120 mm, 4.2-inch) | +1 observer, auto fire missions, +20% sight | 20 s |
-| Pack howitzer, le.IG 18 | +1 observer, auto fire missions, +20% sight | 18 s |
-| le.FH 18 / ML-20 / B-4 howitzers | +1 observer, auto fire missions, +20% sight | 25 / 35 / 40 s |
-| Land Mattress | +1 observer, single-rocket fire missions, +20% sight | 35 s |
-| Katyusha, Panzerwerfer, Calliope, Wurfrahmen | radio set, single-rocket fire missions, +20% sight | 40 s |
-| Priest, Sexton | radio set, auto fire missions, +20% sight | 25 s |
+| Light mortars (50 / 60 mm) | +1 observer, auto fire missions, +20% sight | 5 s |
+| Medium mortars (81 / 82 mm, 3-inch) | +1 observer, auto fire missions, +20% sight | 6 s |
+| Heavy mortars (107 / 120 mm, 4.2-inch) | +1 observer, auto fire missions, +20% sight | 8 s |
+| Pack howitzer, le.IG 18 | +1 observer, auto fire missions, +20% sight | 6 s |
+| le.FH 18 / ML-20 / B-4 howitzers | +1 observer, auto fire missions, +20% sight | 8 / 10 / 14 s |
+| Land Mattress | +1 observer, single-rocket fire missions, +20% sight | 6 s |
+| Katyusha, Panzerwerfer, Calliope, Wurfrahmen | radio set, single-rocket fire missions, +20% sight | 6 s |
+| Priest, Sexton | radio set, auto fire missions, +20% sight | 8 s |
 
 The observer is a real soldier (the faction's officer model). If he dies, the fire missions keep running.
 
@@ -272,7 +272,7 @@ See `TESTING_REPORT.md` for the full test plan.
 
 ## Changelog
 
-See [`CHANGELOG.md`](CHANGELOG.md). Current version: **1.2.0**.
+See [`CHANGELOG.md`](CHANGELOG.md). Current version: **1.2.1**.
 
 ---
 

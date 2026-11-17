@@ -42,29 +42,29 @@ RADIO = {
                  'screen_name': 'Radio Man',
                  'help_text': 'A forward observer with a field radio joins the crew (+1 soldier). He spots and calls fire on his own: '
                               'the gun now fires single aimed rounds at enemies your army can see - machine guns, AT guns, mortars, '
-                              'vehicles and garrisons first, infantry in the open last. It is slow and deliberate, not a spam barrage '
-                              '(one round every 12-40 s depending on the gun). Your manual barrages, smoke and counter-barrage work '
+                              'vehicles and garrisons first, infantry in the open last. Steady fire support like a normal weapon '
+                              '(one round every 5-14 s depending on the gun), not a spam barrage. Your manual barrages, smoke and counter-barrage work '
                               'exactly as before. +20% sight. The fire missions keep running even if the observer is killed.',
                  'extra_text': '+1 observer soldier. Gun auto-fires at priority targets. +20% sight.'},
         'vehicle': {'name': 'vplus_radio_set_mp', 'loc': (1975, 1976, 1977),
                     'screen_name': 'Radio Man',
                     'help_text': 'The crew gets a radio link to the front line. The launcher now fires single rockets / shells on its own '
-                                 'at enemies your army can see - machine guns, AT guns, mortars, vehicles and garrisons first. Slow and '
-                                 'deliberate (one shot every 25-40 s), not a full salvo. Full barrages stay manual. +20% sight.',
+                                 'at enemies your army can see - machine guns, AT guns, mortars, vehicles and garrisons first. Steady fire '
+                                 '(one shot every 6-8 s), not a full salvo. Full barrages stay manual. +20% sight.',
                     'extra_text': 'Launcher auto-fires single shots at priority targets. +20% sight.'},
     },
 }
 # ebps name -> (kind, hardpoint of the REAL weapon to copy (Kriegspiel hardpoint_01 is often a range-1 dummy), seconds per radio shot)
-SUPPORT_GUNS = {
-    'm2_60mm_mortar_mp': ('crew', 2, 12.0), 'granatewerfer_36_50mm_mortar_mp': ('crew', 2, 12.0), 'rm38_50mm_mortar_mp': ('crew', 2, 12.0),
-    'm1_81mm_mortar_mp': ('crew', 2, 15.0), 'granatewerfer_34_81mm_mortar_mp': ('crew', 2, 15.0), 'pm41_82mm_mortar_mp': ('crew', 2, 15.0),
-    'm2_107mm_mortar_mp': ('crew', 2, 20.0), 'granatewerfer_42_120mm_mortar_mp': ('crew', 2, 20.0), 'hm-120_38_mortar_mp': ('crew', 2, 20.0),
-    'm1_75mm_pack_howitzer_mp': ('crew', 2, 18.0), 'le_ig_18_inf_support_gun_mp': ('crew', 2, 18.0),
-    'howitzer_105mm_le_fh18_mp': ('crew', 2, 25.0), 'm1937_152mm_ml_20_artillery_mp': ('crew', 3, 35.0),
-    'm1931_203mm_b-4_howitzer_artillery_mp': ('crew', 2, 40.0), 'brit_land_mattress_launcher_mp': ('crew', 2, 35.0),
-    'katyusha_bm-13n_mp': ('vehicle', 2, 40.0), 'panzerwerfer_sdkfz_4_1_mp': ('vehicle', 2, 40.0),
-    't34_calliope_mp': ('vehicle', 2, 40.0), 'halftrack_sdkfz_251_wurfrahmen_40_mp': ('vehicle', 3, 40.0),
-    'm7b1_priest_mp': ('vehicle', 2, 25.0), 'sexton_spg_mp': ('vehicle', 2, 25.0),
+SUPPORT_GUNS = {   # seconds per radio shot ~ vanilla auto-fire cadence: steady fire support, not a spam barrage
+    'm2_60mm_mortar_mp': ('crew', 2, 5.0), 'granatewerfer_36_50mm_mortar_mp': ('crew', 2, 5.0), 'rm38_50mm_mortar_mp': ('crew', 2, 5.0),
+    'm1_81mm_mortar_mp': ('crew', 2, 6.0), 'granatewerfer_34_81mm_mortar_mp': ('crew', 2, 6.0), 'pm41_82mm_mortar_mp': ('crew', 2, 6.0),
+    'm2_107mm_mortar_mp': ('crew', 2, 8.0), 'granatewerfer_42_120mm_mortar_mp': ('crew', 2, 8.0), 'hm-120_38_mortar_mp': ('crew', 2, 8.0),
+    'm1_75mm_pack_howitzer_mp': ('crew', 2, 6.0), 'le_ig_18_inf_support_gun_mp': ('crew', 2, 6.0),
+    'howitzer_105mm_le_fh18_mp': ('crew', 2, 8.0), 'm1937_152mm_ml_20_artillery_mp': ('crew', 3, 10.0),
+    'm1931_203mm_b-4_howitzer_artillery_mp': ('crew', 2, 14.0), 'brit_land_mattress_launcher_mp': ('crew', 2, 6.0),
+    'katyusha_bm-13n_mp': ('vehicle', 2, 6.0), 'panzerwerfer_sdkfz_4_1_mp': ('vehicle', 2, 6.0),
+    't34_calliope_mp': ('vehicle', 2, 6.0), 'halftrack_sdkfz_251_wurfrahmen_40_mp': ('vehicle', 3, 6.0),
+    'm7b1_priest_mp': ('vehicle', 2, 8.0), 'sexton_spg_mp': ('vehicle', 2, 8.0),
 }
 ARTILLERY_SANDBAG_FUNCS = ('AE_SpawnPak43Defenses', 'AE_SpawnSupplyTruckAccessory_1', 'AE_SpawnSupplyTruckAccessory_2')
 
@@ -149,6 +149,7 @@ MG_VANILLA_MAP = {   # Kriegspiel-only MG weapons -> closest vanilla weapon for 
 }
 # hit model taken from vanilla (how a hitscan MG hits and pins). Everything else - damage, penetration, deflection,
 # criticals, rate of fire, burst, cooldown, reload, range, cover table, target table, moving - stays Kriegspiel.
+MG_ACCURACY = 0.35        # x vanilla hit chance (Kriegspiel damage is ~2x vanilla, Kriegspiel infantry have 30 HP)
 MG_HIT_SECTIONS = ('accuracy', 'suppression', 'scatter', 'aim', 'priority', 'behaviour')
 def _graft(ks_tab, v_tab, rel, prefix, strings=False):
     """copy every vanilla leaf value onto the same key path in Kriegspiel (layout untouched; refs never copied)"""
@@ -182,6 +183,25 @@ def mg_hitscan(rel, t, wb):
             e = child(wb[2], vh)
             if e and e[1] == vt and e[2] != vv and not (vt == 3 and ':' in vv):
                 log['mg_hitscan'].append([rel, '/weapon_bag/' + nm, e[2], vv]); e[2] = vv
+    # Kriegspiel infantry have 30 HP (vanilla 80): vanilla hit chance x Kriegspiel damage shreds squads instantly.
+    # Scale the hit chance so a burst pins first and kills over a few seconds, like a Kriegspiel MG nest.
+    for k in ('near', 'mid', 'far'):
+        e = node(wb[2], 'accuracy', k)
+        if e and e[1] == 0: e[2] = r4(e[2] * MG_ACCURACY)
+    log['mg_hitscan'].append([rel, '/weapon_bag/accuracy', 'vanilla', 'vanilla x %g' % MG_ACCURACY])
+    # target table: the game uses the FIRST matching unit type. Tanks are both 'vehicle' (damage 0.3) and 'heavy_vehicle'
+    # (Kriegspiel: damage 0, penetration 0). With hit-scan every round reached the tank, so 'vehicle' killed them.
+    # Put 'heavy_vehicle' first: tanks shrug off MG fire again, light vehicles still take damage.
+    tt = child(wb[2], 0x919f2f95)
+    if tt and tt[1] in (100, 101):
+        ut = lambda e: (child(e[2], 'unit_type') or [0, 0, ''])[2] if e[1] in (100, 101) else ''
+        hv = [e for e in tt[2] if ut(e) == 'heavy_vehicle']; vh = [i for i, e in enumerate(tt[2]) if ut(e) == 'vehicle']
+        if hv and vh and tt[2].index(hv[0]) > vh[0]:
+            ids_ = [e[0] for e in tt[2]]                 # keep the key sequence, swap the contents
+            items = [e for e in tt[2] if e is not hv[0]]; items.insert(vh[0], hv[0])
+            for e, h_ in zip(items, ids_): e[0] = h_
+            tt[2][:] = items
+            log['mg_hitscan'].append([rel, '/weapon_bag/target_table', 'vehicle before heavy_vehicle', 'heavy_vehicle first (tanks immune as in Kriegspiel)'])
     pr = node(wb[2], 'projectile', 'projectile')
     log['mg_hitscan'].append([rel, '/weapon_bag/projectile/projectile', pr[2], '']); pr[2] = ''
     log['gunfire'].append([rel, 'machine_gun', '', pr and 'bullet', '(hitscan, vanilla %s)' % vname, '', '', '', ''])
@@ -393,6 +413,38 @@ def radio_man():
             modifier(tpl_mod, 'modifiers\\sight_radius_modifier.lua', RADIO['sight_multiplier'], 'multiplication', '', 'apply_to_entity')]
         return ct
 
+    # vanilla multiplayer pattern (grenadier_squad_mp, veteran squad leader): sbps squad_action_apply_ext
+    #   actions      -> requirement_action(required_squad_upgrade X) -> add_to_squad_loadout_action      (squad level)
+    #   0xc4ddb307   -> requirement_action(required_squad_upgrade X) -> apply_modifiers_action           (every entity)
+    _, gren = _tpl('grenadier_squad_mp.rgd')
+    g_sae = child(gren, 'squad_action_apply_ext')[2]
+    tpl_req_sq = copy.deepcopy(child(child(g_sae, 'actions')[2], 'requirement_action'))
+    tpl_req_en = copy.deepcopy(child(child(g_sae, 0xc4ddb307)[2], 'requirement_action'))
+    tpl_sae_actions = [e for e in g_sae if rgd.name(e[0]) == 'actions'][0]
+    tpl_sae_ent = [e for e in g_sae if e[0] == 0xc4ddb307][0]
+
+    def squad_effects(t, rel, kind, faction, uname):
+        sae = child(t, 'squad_action_apply_ext')
+        if sae is None: raise SystemExit('no squad_action_apply_ext in ' + rel)
+        def req(tpl, actions):
+            r = copy.deepcopy(tpl); child(r[2], 0x3251a3ee)[2] = new_action_id()
+            node(r[2], 'requirement_table', 'required_squad_upgrade', 'upgrade_name')[2] = G + uname
+            child(r[2], 'action_table')[2] = actions; return r
+        def slot(tpl):
+            e = child(sae[2], tpl[0])
+            if e is None: e = [tpl[0], tpl[1], []]; sae[2].append(e)
+            return e
+        if kind == 'crew':
+            lo = copy.deepcopy(tpl_loadout); child(lo[2], 0x3251a3ee)[2] = new_action_id()
+            child(lo[2], 'unit_type')[2] = G + RADIO['observer'][faction]; child(lo[2], 'count')[2] = 1
+            slot(tpl_sae_actions)[2].append(req(tpl_req_sq, [lo]))
+        am = copy.deepcopy(tpl_apply); child(am[2], 0x3251a3ee)[2] = new_action_id()
+        child(am[2], 'permanent')[2] = False; child(am[2], 'duration')[2] = 0.0
+        child(am[2], 'modifiers')[2] = [
+            modifier(tpl_mod, 'modifiers\\enable_weapon_modifier.lua', 1.0, 'enable', hpname, 'apply_to_weapon'),
+            modifier(tpl_mod, 'modifiers\\sight_radius_modifier.lua', RADIO['sight_multiplier'], 'multiplication', '', 'apply_to_entity')]
+        slot(tpl_sae_ent)[2].append(req(tpl_req_en, [am]))
+
     def make_upgrade(kind, faction=None):
         U = RADIO['upgrades'][kind]; name = U['name'] % faction if '%s' in U['name'] else U['name']
         rel = 'upgrade/%s.rgd' % name
@@ -401,16 +453,10 @@ def radio_man():
         child(up, 'pbgid')[2] = new_id()
         ui = child(bag, 'ui_info')[2]
         for k, lid in zip(('screen_name', 'help_text', 'extra_text'), U['loc']):
-            e = child(ui, k); e[1] = 3; e[2] = '$' + G + str(lid)
+            e = child(ui, k); e[1] = 4; e[2] = '$' + G + str(lid)     # 4 = localized string (Kriegspiel uses the same)
         child(ui, 'icon_name')[2] = 'Icons_commander_cmdr_soviet_radio_intercept'
         child(ui, 'hotkey_name')[2] = 'R'
-        acts = []
-        if kind == 'crew':
-            lo = copy.deepcopy(tpl_loadout); child(lo[2], 0x3251a3ee)[2] = new_action_id()
-            child(lo[2], 'unit_type')[2] = G + RADIO['observer'][faction]; child(lo[2], 'count')[2] = 1
-            acts.append(lo)
-        acts.append(fire_mission_action())
-        child(bag, 'actions')[2] = acts
+        child(bag, 'actions')[2] = []          # multiplayer: the upgrade is a flag, the squad applies the effects (see squad_effects)
         cost = node(bag, 'time_cost', 'cost')[2]
         for k in ('popcap', 'action', 'fuel', 'command', 'manpower'): child(cost, k)[2] = 0.0
         child(cost, 'munition')[2] = RADIO['munition_cost']
@@ -488,6 +534,7 @@ def radio_man():
         uname = make_upgrade(kind, faction)
         entry = [H('upgrade'), 3, G + uname]
         if not any(e[2] == entry[2] for e in ups[2]): ups[2].append(entry)
+        squad_effects(t, rel, kind, faction, uname)
         log['radio'].append([rel, 'squad', 'Radio Man button (%s, %s)' % (uname, guns[0])])
 
 def no_artillery_sandbags():

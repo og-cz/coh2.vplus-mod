@@ -40,6 +40,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50_cal_api_mp.
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50_cal_api_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50_cal_api_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50_cal_api_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50_cal_api_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50_cal_api_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50_cal_api_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.4000000059604645
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.550000011920929
@@ -82,6 +84,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,/
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.1599999964237213
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.3799999952316284
@@ -125,6 +129,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rg
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,/weapon_bag/behaviour/aa_weapon,True,False
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.5
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.550000011920929
@@ -165,6 +171,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.30000001192092896
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.4399999976158142
@@ -207,6 +215,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_le
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.30000001192092896
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.4399999976158142
@@ -249,6 +259,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_ri
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.4000000059604645
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.6000000238418579
@@ -290,6 +302,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,/we
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,75.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.4000000059604645
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.6000000238418579
@@ -330,6 +344,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,/weapon
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,75.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.25
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.44999998807907104
@@ -370,6 +386,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_m
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.4000000059604645
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.550000011920929
@@ -412,6 +430,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,/weapo
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.4000000059604645
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.550000011920929
@@ -454,6 +474,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,/weapon_ba
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.5
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.550000011920929
@@ -493,6 +515,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.r
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.20000000298023224
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.4749999940395355
@@ -532,6 +556,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mount
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,/weapon_bag/behaviour/fire_at_building_combat_slot,False,True
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.5
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.550000011920929
@@ -571,6 +597,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_moun
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.0
@@ -616,6 +644,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,/w
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,/weapon_bag/fx_always_visible,False,True
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,/weapon_bag/fx_tracer_name,fx_hmg_rw_tracer,m2hb50cal_tracer
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.5
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.550000011920929
@@ -655,6 +685,8 @@ weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_m
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.16670000553131104
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.30000001192092896
@@ -692,6 +724,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_c
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,/weapon_bag/behaviour/fire_at_building_combat_slot,False,True
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.16670000553131104
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.30000001192092896
@@ -729,6 +763,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_h
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,/weapon_bag/behaviour/fire_at_building_combat_slot,False,True
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.3499999940395355
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -765,6 +801,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.3499999940395355
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -802,6 +840,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_c
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,/weapon_bag/behaviour/fire_at_building_combat_slot,False,True
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.43700000643730164
 weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.49399998784065247
@@ -841,6 +881,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_movi
 weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.3499999940395355
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -877,6 +919,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_tur
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.3499999940395355
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -915,6 +959,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4830000102519989
 weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.5410000085830688
@@ -959,6 +1005,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rg
 weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,/weapon_bag/fx_action_target_name,mg42lmg_target,lmg_bar_target
 weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,/weapon_bag/fx_tracer_name,mg42lmg_tracer,fx_lmg_1919a6_tracer
+weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.4830000102519989
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.5410000085830688
@@ -998,6 +1046,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,/w
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,/weapon_bag/accuracy/far,0.003000000026077032,0.40299999713897705
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,/weapon_bag/accuracy/mid,0.006099999882280827,0.574999988079071
@@ -1034,6 +1084,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_mac
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,/weapon_bag/priority/distance/near,3.0,60.0
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,55.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.3499999940395355
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -1070,6 +1122,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.3499999940395355
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -1106,6 +1160,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.3499999940395355
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -1144,6 +1200,8 @@ weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_30_cal_mp,
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.125
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.3125
@@ -1188,6 +1246,8 @@ weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,/weapon_
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.125
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.3125
@@ -1232,6 +1292,8 @@ weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,/we
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.3499999940395355
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.44999998807907104
@@ -1275,6 +1337,8 @@ weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,/weapo
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,200.0
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.3499999940395355
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.44999998807907104
@@ -1318,6 +1382,8 @@ weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,/
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,200.0
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,/weapon_bag/accuracy/far,0.0006000000284984708,11.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,/weapon_bag/accuracy/mid,0.0012000000569969416,11.0
@@ -1361,6 +1427,8 @@ weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,/weapon_bag
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.5
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,/weapon_bag/fx_tracer_speed,850.0,0.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,/weapon_bag/fx_always_visible,False,True
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_api_mp,
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,/weapon_bag/accuracy/far,0.0006000000284984708,11.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,/weapon_bag/accuracy/mid,0.0012000000569969416,11.0
@@ -1404,6 +1472,8 @@ weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,/
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.5
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,0.0
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,/weapon_bag/fx_always_visible,False,True
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_api_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4000000059604645
 weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.5
@@ -1443,6 +1513,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rea
 weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.3799999952316284
 weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4490000009536743
@@ -1484,6 +1556,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,/w
 weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4000000059604645
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.5
@@ -1526,6 +1600,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4000000059604645
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.5
@@ -1566,6 +1642,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.r
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.2800000011920929
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.32499998807907104
@@ -1605,6 +1683,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.2800000011920929
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.32499998807907104
@@ -1644,6 +1724,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigera
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.3499999940395355
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.4124999940395355
@@ -1683,6 +1765,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,/weapon_ba
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4099999964237213
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4399999976158142
@@ -1724,6 +1808,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummba
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4099999964237213
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4399999976158142
@@ -1765,6 +1851,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4099999964237213
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4399999976158142
@@ -1805,6 +1893,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerw
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4099999964237213
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4399999976158142
@@ -1846,6 +1936,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4099999964237213
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4399999976158142
@@ -1887,6 +1979,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.3499999940395355
 weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.4124999940395355
@@ -1926,6 +2020,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,/w
 weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4099999964237213
 weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4399999976158142
@@ -1964,6 +2060,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,/weapon_ba
 weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.3199999928474426
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.38499999046325684
@@ -2002,6 +2100,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_gene
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.25
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.42500001192092896
@@ -2040,6 +2140,8 @@ weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_gener
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.125
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.3125
@@ -2080,6 +2182,8 @@ weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_m
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,200.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.125
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.3125
@@ -2120,6 +2224,8 @@ weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rg
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,200.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.20000000298023224
 weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.4749999940395355
@@ -2159,6 +2265,8 @@ weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegu
 weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,/weapon_bag/behaviour/fire_at_building_combat_slot,False,True
 weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,/weapon_bag/accuracy/far,0.002400000113993883,0.6000000238418579
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,/weapon_bag/accuracy/mid,0.004800000227987766,0.699999988079071
@@ -2197,6 +2305,8 @@ weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_l
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,50.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.28999999165534973
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4099999964237213
@@ -2234,6 +2344,8 @@ weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vicker
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.23999999463558197
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.5099999904632568
@@ -2274,6 +2386,8 @@ weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,/
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,200.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.23999999463558197
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.5099999904632568
@@ -2314,6 +2428,8 @@ weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,/weap
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,200.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.46000000834465027
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.4699999988079071
@@ -2350,6 +2466,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turr
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.3499999940395355
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.44999998807907104
@@ -2391,6 +2509,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rg
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,/weapon_bag/fx_action_target_name,pintle_mg42_gunner_target,pintle_vickers_k_target
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.3499999940395355
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.550000011920929
@@ -2427,6 +2547,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_ve
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.3499999940395355
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.550000011920929
@@ -2463,6 +2585,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_ve
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.3499999940395355
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.550000011920929
@@ -2502,6 +2626,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hu
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,/weapon_bag/fx_action_target_name,turret_hmg_target,hull_hmg_target
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.3499999940395355
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.44999998807907104
@@ -2543,6 +2669,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,/weapon_bag/fx_action_target_name,pintle_mg42_gunner_target,pintle_vickers_k_target
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.3499999940395355
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.550000011920929
@@ -2579,6 +2707,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_tu
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.3499999940395355
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.550000011920929
@@ -2616,6 +2746,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_m
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,/weapon_bag/behaviour/fire_at_building_combat_slot,False,True
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,220.0
+weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.375
 weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.5450000166893005
@@ -2656,6 +2788,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light
 weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.4000000059604645
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.574999988079071
@@ -2692,6 +2826,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.4000000059604645
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.574999988079071
@@ -2728,6 +2864,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/far,0.0024999999441206455,0.3499999940395355
 weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/mid,0.005100000184029341,0.550000011920929
@@ -2764,6 +2902,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_
 weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,/weapon_bag/accuracy/far,0.002400000113993883,0.39100000262260437
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,/weapon_bag/accuracy/mid,0.004800000227987766,0.41440001130104065
@@ -2802,6 +2942,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,/weapon_bag/accuracy/far,0.002400000113993883,0.39100000262260437
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,/weapon_bag/accuracy/mid,0.004800000227987766,0.41440001130104065
@@ -2843,6 +2985,8 @@ weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machin
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,/weapon_bag/fx_action_target_name,lmg_dp28_target,lmg_bren_target
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,/weapon_bag/fx_tracer_speed,745.0,120.0
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,/weapon_bag/fx_tracer_name,lmg_dp28_tracer,fx_lmg_bren_tracer
+weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_303_cal_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,/weapon_bag/accuracy/far,0.003000000026077032,0.10000000149011612
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,/weapon_bag/accuracy/mid,0.006099999882280827,0.23999999463558197
@@ -2885,6 +3029,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,/weapon_bag/fx_tracer_name,pintle_dshk38_tracer,fx_pintle_dshk38_tracer
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_127x108mm_api_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,/weapon_bag/accuracy/far,0.003000000026077032,0.10000000149011612
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,/weapon_bag/accuracy/mid,0.006099999882280827,0.23999999463558197
@@ -2927,6 +3073,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_d
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,/weapon_bag/fx_tracer_name,pintle_dshk38_tracer,fx_pintle_dshk38_tracer
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_127x108mm_api_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,/weapon_bag/accuracy/far,0.003000000026077032,0.4000000059604645
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,/weapon_bag/accuracy/mid,0.006099999882280827,0.44999998807907104
@@ -2967,6 +3115,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_ta
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,/weapon_bag/fx_tracer_name,pintle_dshk38_tracer,fx_pintle_dshk38_tracer
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_127x108mm_api_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,/weapon_bag/accuracy/far,0.003000000026077032,0.36000001430511475
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,/weapon_bag/accuracy/mid,0.006099999882280827,0.5400000214576721
@@ -3011,6 +3161,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rg
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,/weapon_bag/fx_tracer_name,pintle_dshk38_tracer,fx_dshk38_tracer
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_127x108mm_api_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,/weapon_bag/accuracy/far,0.003000000026077032,0.36000001430511475
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,/weapon_bag/accuracy/mid,0.006099999882280827,0.5400000214576721
@@ -3055,6 +3207,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,/w
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,/weapon_bag/fx_tracer_name,pintle_dshk38_tracer,fx_dshk38_tracer
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_127x108mm_api_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,/weapon_bag/accuracy/far,0.002300000051036477,11.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,/weapon_bag/accuracy/mid,0.004699999932199717,11.0
@@ -3101,6 +3255,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_m
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,/weapon_bag/fx_always_visible,False,True
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,/weapon_bag/fx_tracer_name,pintle_dshk38_tracer,fx_stukahmg_rw_tracer
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_127x108mm_api_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.20000000298023224
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.3499999940395355
@@ -3140,6 +3296,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_m
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.46000000834465027
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.5400000214576721
@@ -3180,6 +3338,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,/weapon_bag/fx_action_target_name,m2hb50cal_target,50cal_target
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,/weapon_bag/accuracy/far,0.0015999999595806003,0.125
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,/weapon_bag/accuracy/mid,0.0032500000670552254,0.2800000011920929
@@ -3223,6 +3383,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg_large
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_50_cal_api_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.4000000059604645
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.6000000238418579
@@ -3263,6 +3425,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rg
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,75.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,/weapon_bag/fx_munition_name,mg_phosphorus,hmg
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.4000000059604645
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.6000000238418579
@@ -3302,6 +3466,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,/w
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,/weapon_bag/behaviour/0xef58e566,2,0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,75.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_mp,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,/weapon_bag/accuracy/far,0.0031999999191612005,0.4000000059604645
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,/weapon_bag/accuracy/mid,0.006500000134110451,0.6000000238418579
@@ -3343,6 +3509,8 @@ weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,/weapon_bag/fx_action_target_name,dshk38_target,maxim_target
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,75.0
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,/weapon_bag/fx_tracer_name,pintle_dshk38_tracer,fx_maxim_tracer
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_mp,
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,/weapon_bag/accuracy/far,0.002300000051036477,0.4000000059604645
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,/weapon_bag/accuracy/mid,0.004699999932199717,0.4699999988079071
@@ -3381,6 +3549,8 @@ weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.r
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_mp,
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/far,0.002300000051036477,0.2800000011920929
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/mid,0.004699999932199717,0.33000001311302185
@@ -3417,6 +3587,8 @@ weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_mp,
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,/weapon_bag/accuracy/far,0.002300000051036477,0.2800000011920929
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,/weapon_bag/accuracy/mid,0.004699999932199717,0.33000001311302185
@@ -3453,6 +3625,8 @@ weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_re
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_mp,
 weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,/weapon_bag/accuracy/far,0.002400000113993883,0.4490000009536743
 weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,/weapon_bag/accuracy/mid,0.004800000227987766,0.5180000066757202
@@ -3491,6 +3665,8 @@ weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_m
 weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_mp,
 weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,11.0
 weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,11.0
@@ -3536,6 +3712,8 @@ weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun
 weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,/weapon_bag/fx_always_visible,False,True
 weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,/weapon_bag/fx_munition_name,hmg,hmg_large
 weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,/weapon_bag/fx_tracer_name,fx_hmg_rw_tracer,fx_stukahmg_rw_tracer
+weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_api_mp,
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,/weapon_bag/accuracy/far,0.002300000051036477,0.10000000149011612
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,/weapon_bag/accuracy/mid,0.004699999932199717,0.25
@@ -3572,6 +3750,8 @@ weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_mp,
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,/weapon_bag/accuracy/far,0.002300000051036477,0.4000000059604645
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,/weapon_bag/accuracy/mid,0.004699999932199717,0.44999998807907104
@@ -3610,6 +3790,8 @@ weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_mp,
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/far,0.002300000051036477,0.4300000071525574
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy/mid,0.004699999932199717,0.47999998927116394
@@ -3646,6 +3828,8 @@ weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/ground_hit_rate,1.0,0.75
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,/weapon_bag/behaviour/artillery_force_obey_los,True,False
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_762x54mm_mp,
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.2800000011920929
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.5
@@ -3689,6 +3873,8 @@ weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.3499999940395355
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.44999998807907104
@@ -3732,6 +3918,8 @@ weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,200.0
+weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,/weapon_bag/accuracy/far,0.002099999925121665,0.47999998927116394
 weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,/weapon_bag/accuracy/mid,0.00430000014603138,0.5400000214576721
@@ -3773,6 +3961,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewe
 weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.3499999940395355
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -3813,6 +4003,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,240.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.3499999940395355
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -3852,6 +4044,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.3499999940395355
 weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -3892,6 +4086,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_m
 weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.3499999940395355
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -3931,6 +4127,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.38999998569488525
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4449999928474426
@@ -3976,6 +4174,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,/weapon_bag/fx_action_target_name,pintle_dshk38_target,pintle_rear_mg42_gunner_target
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,/weapon_bag/fx_tracer_name,fx_pintle_dshk38_tracer,pintle_rear_mg42_tracer
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.1599999964237213
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.3799999952316284
@@ -4021,6 +4221,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.3499999940395355
 weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -4062,6 +4264,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pint
 weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.3499999940395355
 weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -4100,6 +4304,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_m
 weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.3499999940395355
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.550000011920929
@@ -4139,6 +4345,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,/weapon_bag/area_effect/distance/far,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.3499999940395355
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.550000011920929
@@ -4179,6 +4387,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_st
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.3499999940395355
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.550000011920929
@@ -4219,6 +4429,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,/weapon_bag/area_effect/distance/far,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4000000059604645
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.550000011920929
@@ -4259,6 +4471,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4099999964237213
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4399999976158142
@@ -4300,6 +4514,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,220.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.3400000035762787
 weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.4000000059604645
@@ -4341,6 +4557,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lm
 weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,/weapon_bag/accuracy/far,0.0012000000569969416,0.25
 weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.42500001192092896
@@ -4382,6 +4600,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_p
 weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.4099999964237213
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4399999976158142
@@ -4421,6 +4641,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rg
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,/weapon_bag/accuracy/far,0.0012499999720603228,0.38999998569488525
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,/weapon_bag/accuracy/mid,0.0024999999441206455,0.4449999928474426
@@ -4460,6 +4682,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rg
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.38999998569488525
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4449999928474426
@@ -4499,6 +4723,8 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rg
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,/weapon_bag/accuracy/far,0.00139999995008111,0.38999998569488525
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,/weapon_bag/accuracy/mid,0.00279999990016222,0.4449999928474426
@@ -4538,4 +4764,6 @@ weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,/weapon_bag/area_effect/distance/mid,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,/weapon_bag/area_effect/distance/near,0.10000000149011612,0.0
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,/weapon_bag/fx_tracer_speed,850.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,/weapon_bag/accuracy,vanilla,vanilla x 0.35
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,/weapon_bag/target_table,vehicle before heavy_vehicle,heavy_vehicle first (tanks immune as in Kriegspiel)
 weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,/weapon_bag/projectile/projectile,3f698c4a5048428d9fdb675aa488f596:bullet_792x57mm_mp,

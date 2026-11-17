@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.2.1 (2026-11-17)
+
+### Fixed
+- **Radio Man did nothing in multiplayer games** (no soldier, no fire). A multiplayer squad upgrade is only a flag; its effects
+  must live in the squad. They now sit in each squad's `squad_action_apply_ext` (`required_squad_upgrade` -> add observer /
+  enable the radio weapon on every entity), the same way vanilla grenadiers get their veteran leader.
+- **Radio Man had no tooltip text.** The strings were stored as plain text instead of localized strings (type 4).
+- **Machine guns killed tanks.** The MG damage table matched tanks as `vehicle` before `heavy_vehicle` (immune). Tanks now
+  match `heavy_vehicle` first, as Kriegspiel intended. Light vehicles still take MG damage.
+- **Machine guns wiped squads instantly.** Kriegspiel infantry have 30 HP. MG hit chance is now 0.35 x vanilla, so a burst pins
+  first and kills over a few seconds.
+
+### Changed
+- Radio Man fires like a normal weapon: one round every 5-14 s (mortars 5-8 s, rockets 6 s, howitzers 8-14 s).
+
 ## 1.2.0 (2026-11-17)
 
 ### Fixed

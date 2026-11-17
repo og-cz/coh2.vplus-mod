@@ -6,19 +6,21 @@ PASS Kriegspiel GUID fully replaced (no collision with the Workshop Kriegspiel)
 PASS all 4308 RGD files parse with valid chunk CRC (0 bad)
 PASS all 1560 mod references resolve to a file in the pack (unresolved: [])
 PASS Radio Man locale strings 1972-1977 present
-PASS all 64371 action ids unique (0 duplicated)
+PASS all 64442 action ids unique (0 duplicated)
 PASS 25 new instance ids are unique, collide with nothing, and continue the mod block (offsets 692-716)
-PASS action ids stay in the mod block (max offset 175383)
+PASS action ids stay in the mod block (max offset 175437)
 PASS no field outside the allowed list differs from Kriegspiel 
 PASS MG: all 114 machine guns (infantry, team, vehicle, aircraft) fire vanilla hitscan (no physical bullet)
 PASS MG: all 17 heavy MG teams have vanilla suppression again (they pin)
-PASS MG: damage / penetration / criticals / rate of fire / burst / cooldown / reload / cover / target table identical to Kriegspiel ([])
+PASS MG: damage / penetration / criticals / rate of fire / burst / cooldown / reload / cover identical to Kriegspiel ([])
+PASS MG: tanks (heavy_vehicle) matched before generic vehicle, so MGs do not kill tanks ([])
 PASS DAMAGE MODEL: all 499 other Kriegspiel weapons (rifles, SMGs, AT, guns, artillery) identical (0 diffs)
 PASS DAMAGE MODEL: rifles / SMGs / AT rifles / guns keep their original Kriegspiel projectile
-PASS 19 radio weapons = copies of the REAL gun/rocket weapon (range > 1, auto-target on, >= 10 s per shot) ([])
+PASS 19 radio weapons = copies of the REAL gun/rocket weapon (range > 1, auto-target on, 5-14 s per shot) ([])
 PASS 6 Radio Man upgrades (5 factions + vehicles): 60 munitions, once per squad
-PASS crew Radio Man adds one observer soldier (add_to_squad_loadout_action)
-PASS Radio Man enables hardpoint_08 on the gun entity (change_target_action -> entities)
+PASS all 25 squads apply Radio Man the multiplayer way (squad_action_apply_ext, required_squad_upgrade -> hardpoint_08 on every entity)
+PASS 19 crewed squads add one observer soldier when Radio Man completes
+PASS Radio Man tooltips are localized strings (type 4, like Kriegspiel) (18)
 PASS Radio Man never touches the gun's own weapons (hardpoint_01 untouched)
 PASS 21 support guns / rocket launchers have the radio weapon on hardpoint_08, disabled at spawn
 PASS 25 squads (all 5 factions) offer the Radio Man upgrade

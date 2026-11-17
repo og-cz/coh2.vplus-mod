@@ -90,7 +90,7 @@ ALLOWED = [re.compile(x) for x in [
     r'^/explosion_ext/terrain_hit/deformation/(deform_decal_file|vertical_scale)$', r'^/projectile_ext/spawn_collision_fx$',
     r'^/ai_settings_bag/fallback/(retreat_health_ratio|retreat_combat_rating_ratio|retreat_capacity_ratio|fallback_combat_rating_ratio|fallback_capacity_ratio|fallback_squad_health_ratio|fallback_vehicle_health_ratio|retreat_on_pinned|retreat_on_suppression)$',
     r'^/entity_blueprint_ext/is_visible_in_game$']]
-MG_HIT = re.compile(r'^/weapon_bag/((accuracy|suppression|scatter|aim|priority|behaviour|area_effect/distance)/.*|fx_[^/]+|projectile/projectile)$')
+MG_HIT = re.compile(r'^/weapon_bag/((accuracy|suppression|scatter|aim|priority|behaviour|area_effect/distance|0x919f2f95)/.*|fx_[^/]+|projectile/projectile)$')
 mg_files = {'attrib/attrib/' + r[0] for r in csv.reader(open(os.path.join(ROOT, 'reports', 'mg_hitscan_changes.csv'))) if r[0] != 'file'}
 sandbag_files = {'attrib/attrib/' + r[0] for r in csv.reader(open(os.path.join(ROOT, 'reports', 'sandbags_changes.csv'))) if r[0] != 'file'}
 gun_ebps = {r[0] for r in csv.reader(open(os.path.join(ROOT, 'reports', 'radio_changes.csv'))) if r[1] == 'gun entity'}
@@ -113,7 +113,7 @@ for p, a in OF.items():
     if extra and not structural: unexpected['<new keys in> ' + rel] += 1
     if extra and rel in gun_ebps and not all(k.startswith(('/combat_ext/hardpoints/hardpoint#', '/action_apply_ext/actions/apply_modifiers_action')) for k in extra):
         unexpected['<unexpected new keys in gun> ' + rel] += 1
-    if extra and rel in squads and not all(k.startswith('/squad_upgrade_ext/upgrades/upgrade') for k in extra):
+    if extra and rel in squads and not all(k.startswith(('/squad_upgrade_ext/upgrades/upgrade', '/squad_action_apply_ext/')) for k in extra):
         unexpected['<unexpected new keys in squad> ' + rel] += 1
 ok(not unexpected, 'no field outside the allowed list differs from Kriegspiel ' + (str(unexpected.most_common(8)) if unexpected else ''))
 
@@ -123,9 +123,12 @@ ok(len(mg) == len(mg_files) and all(W[p]['/weapon_bag/projectile/projectile'] ==
    f'MG: all {len(mg)} machine guns (infantry, team, vehicle, aircraft) fire vanilla hitscan (no physical bullet)')
 hmg = [p for p in mg if any(x in p for x in ('hmg_team_', 'vickers_hmg', 'maxim_m1910', 'dshk_38_sokolov', '/m1919a4_30cal', '/m2hb_50cal_', 'sg43'))]
 ok(len(hmg) >= 12 and all(W[p].get('/weapon_bag/suppression/amount', 0) > 0 for p in hmg), f'MG: all {len(hmg)} heavy MG teams have vanilla suppression again (they pin)')
-KS_DMG = re.compile(r'^/weapon_bag/(damage|penetration|deflection|critical|burst|cooldown|reload|moving|cover_table|range|0x919f2f95|setup)/')
+KS_DMG = re.compile(r'^/weapon_bag/(damage|penetration|deflection|critical|burst|cooldown|reload|moving|cover_table|range|setup)/')
 dd = [(p, k) for p in mg for k in W[p] if KS_DMG.match(k) and W[p][k] != OF[p].get(k) and not k.startswith('/weapon_bag/range/')]
-ok(not dd, f'MG: damage / penetration / criticals / rate of fire / burst / cooldown / reload / cover / target table identical to Kriegspiel ({dd[:3]})')
+ok(not dd, f'MG: damage / penetration / criticals / rate of fire / burst / cooldown / reload / cover identical to Kriegspiel ({dd[:3]})')
+def tt(f): return [f[k] for k in sorted((k for k in f if re.match(r'^/weapon_bag/0x919f2f95/0x39ba6fe8(#\d+)?/unit_type$', k)), key=lambda k: int(k.split('#')[1].split('/')[0]) if '#' in k else 1)]
+tbad = [p for p in mg if 'heavy_vehicle' in tt(W[p]) and 'vehicle' in tt(W[p]) and tt(W[p]).index('heavy_vehicle') > tt(W[p]).index('vehicle')]
+ok(not tbad, f'MG: tanks (heavy_vehicle) matched before generic vehicle, so MGs do not kill tanks ({tbad[:2]})')
 STATS = re.compile(r'^/weapon_bag/(damage|accuracy|penetration|burst|cooldown|reload|aim|suppression|scatter|area_effect|moving|suppressed|deflection|critical|cover_table)/')
 other = [p for p in W if p not in mg]
 diff_stats = [(p, k) for p in other for k in W[p] if STATS.match(k) and W[p][k] != OF[p].get(k)]
@@ -142,14 +145,23 @@ for p in radio_w:
         if a.get(k) != b.get(k) and not k.endswith('/0x3251a3ee') and not (k in ('/pbgid', '/weapon_bag/name', '/weapon_bag/behaviour/enable_auto_target_search', '/weapon_bag/burst/can_burst')
                                          or k.startswith('/weapon_bag/priority/') or k.startswith('/weapon_bag/reload/duration/')):
             rbad.append((p, k))
-    if b.get('/weapon_bag/range/max', 0) <= 1.0 or not b.get('/weapon_bag/behaviour/enable_auto_target_search') or b.get('/weapon_bag/reload/duration/max', 0) < 10: rbad.append((p, 'dummy/auto/cadence'))
-ok(not rbad and len(radio_w) == 19, f'{len(radio_w)} radio weapons = copies of the REAL gun/rocket weapon (range > 1, auto-target on, >= 10 s per shot) ({rbad[:3]})')
+    if b.get('/weapon_bag/range/max', 0) <= 1.0 or not b.get('/weapon_bag/behaviour/enable_auto_target_search') or b.get('/weapon_bag/reload/duration/max', 0) < 5: rbad.append((p, 'dummy/auto/cadence'))
+ok(not rbad and len(radio_w) == 19, f'{len(radio_w)} radio weapons = copies of the REAL gun/rocket weapon (range > 1, auto-target on, 5-14 s per shot) ({rbad[:3]})')
 ups = [p for p in added if '/upgrade/vplus_radio_' in p]
 ok(len(ups) == 6 and all(NF[p].get('/upgrade_bag/time_cost/cost/munition') == 60.0 and NF[p].get('/upgrade_bag/local_max_limit') == 1.0 for p in ups), f'{len(ups)} Radio Man upgrades (5 factions + vehicles): 60 munitions, once per squad')
-crew = [p for p in ups if 'radio_man_' in p]
-ok(all(any(k.endswith('/unit_type') and str(v).endswith(('lieutenant_mp', 'forward_observation_officer_mp', 'officer_mp', 'soviet_officer_mp', 'field_officer_mp')) for k, v in NF[p].items()) and
-       'action\\add_to_squad_loadout_action.lua' in NF[p].values() for p in crew) and len(crew) == 5, 'crew Radio Man adds one observer soldier (add_to_squad_loadout_action)')
-ok(all('entities' in NF[p].values() and 'hardpoint_08' in NF[p].values() for p in ups), 'Radio Man enables hardpoint_08 on the gun entity (change_target_action -> entities)')
+sq = {p: NF['attrib/attrib/' + p] for p in squads}
+crew_sq = [p for p, f in sq.items() if any(str(v).endswith('add_to_squad_loadout_action.lua') for v in f.values())]
+ok(all(any(k.startswith('/squad_action_apply_ext/0xc4ddb307/') and v == 'hardpoint_08' for k, v in f.items()) and
+       any(k.endswith('/required_squad_upgrade/upgrade_name') and 'vplus_radio_' in str(v) for k, v in f.items()) for f in sq.values()),
+   f'all {len(sq)} squads apply Radio Man the multiplayer way (squad_action_apply_ext, required_squad_upgrade -> hardpoint_08 on every entity)')
+ok(len(crew_sq) == len(sq) - 6, f'{len(crew_sq)} crewed squads add one observer soldier when Radio Man completes')
+loc4 = []
+def lc(tab):
+    for h_, t_, v_ in tab:
+        if t_ in (100, 101): lc(v_)
+        elif isinstance(v_, str) and ':197' in v_ and v_.startswith('$'): loc4.append(t_)
+for p in ups: lc(T[p])
+ok(len(loc4) == 18 and set(loc4) == {4}, f'Radio Man tooltips are localized strings (type 4, like Kriegspiel) ({len(loc4)})')
 ok(not any(v == 'hardpoint_01' for p in ups for v in NF[p].values()), 'Radio Man never touches the gun\'s own weapons (hardpoint_01 untouched)')
 hp_ok = all(sum(1 for k in NF['attrib/attrib/' + g] if re.match(r'^/combat_ext/hardpoints/hardpoint(#\d+)?/parent_hardpoint$', k)) == 8 for g in gun_ebps)
 ok(hp_ok and len(gun_ebps) == 21, f'{len(gun_ebps)} support guns / rocket launchers have the radio weapon on hardpoint_08, disabled at spawn')
