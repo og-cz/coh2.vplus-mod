@@ -2,7 +2,7 @@
 
 # COH2 V+ Mod
 
-![COH2 V+ Mod](workshop/preview_banner.jpg)
+<img src="workshop/logo.jpg" alt="COH2 V+ Mod" width="600">
 
 **An ambitious, large-scale overhaul for Company of Heroes 2.**
 Real bullets. Deadly machine guns. An enemy that attacks. Built to grow into a bigger WW2 army.
