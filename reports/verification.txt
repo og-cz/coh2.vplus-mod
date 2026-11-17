@@ -1,0 +1,22 @@
+PASS SGA v7 header
+PASS archive identity = Vanilla+ GUID 000a73d70e7a4afb86e5c04167fcd04e
+PASS CRC32 / SHA-1 / size of all 4382 stored files (0 bad)
+PASS file tree = original 4360 + 22 new files, nothing lost
+PASS Kriegspiel GUID fully replaced (no collision with the Workshop Kriegspiel)
+PASS all 4305 RGD files parse with valid chunk CRC (0 bad)
+PASS all 1550 mod references resolve to a file in the pack (unresolved: [])
+PASS Radio Man locale strings 1972-1974 present
+PASS no field outside the allowed list differs from Kriegspiel 
+PASS DAMAGE MODEL: all 119 machine guns / AT rifles fire their original Kriegspiel physical bullet
+PASS DAMAGE MODEL: damage / accuracy / penetration / ROF / reload / suppression / scatter / AoE identical in all 613 Kriegspiel weapons (0 diffs)
+PASS infantry bullet variants = original bullet (speed, collision, explosion) with only the shell model hidden ([])
+PASS 65 infantry weapons use the subtle bullet, no MG does
+PASS 12 radio weapons = exact copies of the gun weapon (projectile, damage, range, scatter) except target priority / howitzer cadence ([])
+PASS Radio Man upgrade: 60 munitions, once per squad
+PASS 14 support-gun entities have the radio weapon on hardpoint_08, disabled at spawn
+PASS 18 squads (all 5 factions) offer the Radio Man upgrade
+PASS barrage / counter-barrage abilities untouched except their range scaling
+PASS 488 weapon max ranges are exactly 0.80 x Kriegspiel
+PASS min range < max range everywhere
+
+0 failure(s)

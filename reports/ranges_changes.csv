@@ -1,0 +1,489 @@
+file,name,min(kept),old_max,new_max,old_near,new_near,old_mid,new_mid,old_far,new_far
+weapon/aef/ballistic_weapon/anti_tank_gun/m1_57mm_at_gun__mp.rgd,M86 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/anti_tank_gun/m1_57mm_at_gun_canister_mp.rgd,57mm T17 Canister,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/anti_tank_gun/m1_57mm_at_gun_he_mp.rgd,T18 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/anti_tank_gun/m5_76mm_at_gun_apcr_mp.rgd,M93 HVAP,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/anti_tank_gun/m5_76mm_at_gun_he_mp.rgd,M42A1,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/anti_tank_gun/m5_76mm_at_gun_mp.rgd,M62,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/infantry_anti_tank_weapon/m18_recoilless_rifle_heat_mp.rgd,M9 Bazooka Anti Tank Weapon,3.0,100.0,80.0,33.29999923706055,26.64,66.5999984741211,53.28,100.0,80.0
+weapon/aef/ballistic_weapon/infantry_anti_tank_weapon/m9_bazooka_mp.rgd,M9 Bazooka Anti Tank Weapon,5.0,60.0,48.0,20.0,16.0,40.0,32.0,60.0,48.0
+weapon/aef/ballistic_weapon/tank_gun/m10_m5_3inch_gun_apcr_mp.rgd,M93 HVAP,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m10_m5_3inch_gun_he_mp.rgd,M42A1,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m10_m5_3inch_gun_mp.rgd,M62,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m15a1_halftrack_37mm_api_mp.rgd,M59A1 Shot,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m15a1_halftrack_37mm_mp.rgd,M54 HEFI,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m15a1_halftrack_37mm_proximity_mp.rgd,M54 HEFI,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m26_m3_90mm_gun_apcr_mp.rgd,M304 Shot,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m26_m3_90mm_gun_he_mp.rgd,M26 Pershing Heavy Tank Main Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m26_m3_90mm_gun_mp.rgd,M82 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m36_m4_90mm_gun_apcr_mp.rgd,M82 Shot,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m36_m4_90mm_gun_he_mp.rgd,M36 Tank Destroyer Main Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m36_m4_90mm_gun_mp.rgd,M82 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m5a1_stuart_m6_37mm_canister_shot_mp.rgd,37mm (Stuart),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m5a1_stuart_m6_37mm_mp.rgd,M74B1 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m8_greyhound_m6_37mm_canister_shot_mp.rgd,37mm (Stuart),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m8_greyhound_m6_37mm_mp.rgd,M74B1 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m8_hmc_75mm_he_mp.rgd,M48 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m8_hmc_75mm_heat_mp.rgd,M66 HEAT,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/m8_hmc_75mm_wp_mp.rgd,75mm Pack Howitzer [White Phosphorous Barrage],0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m1_76mm.rgd,M62 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m1_76mm_easy8_apcr_mp.rgd,M93 HVAP,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m1_76mm_easy8_he_mp.rgd,M24A1 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m1_76mm_easy8_mp.rgd,M62 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m1_76mm_he.rgd,M24A1 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m1_76mm_hvap_mp.rgd,M93 HVAP,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m3_105mm_he_shell_mp.rgd,M1 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m3_105mm_heat_shell_mp.rgd,M67 HEAT,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m3_105mm_wp_shell_mp.rgd,M60 WP,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m3_75mm_apcr_mp.rgd,T45 Shot,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m3_75mm_he_shell_mp.rgd,M48 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/ballistic_weapon/tank_gun/sherman_m3_75mm_mp.rgd,M61 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/explosive_weapons/heavy_artillery/m7b1_priest_m2a1_105mm_airburst_mp.rgd,M2A1 105mm Howitzer [M7B1 Priest],75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/heavy_artillery/m7b1_priest_m2a1_105mm_barrage_mp.rgd,M2A1 105mm Howitzer [M7B1 Priest],75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/heavy_artillery/m7b1_priest_m2a1_105mm_mp.rgd,M2A1 105mm Howitzer [M7B1 Priest],75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/heavy_artillery/m7b1_priest_m2a1_105mm_victor_target_mp.rgd,M2A1 105mm Howitzer [M7B1 Priest],75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/heavy_artillery/offmap_105mm_he_mp.rgd,152mm ML-20,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/heavy_artillery/offmap_155mm_he_mp.rgd,152mm ML-20,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/heavy_artillery/offmap_240mm_he_mp.rgd,railway artillery,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/heavy_artillery/p47_hvar_rockets.rgd,HAVR 5 in HEAT Rocket,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/aef/explosive_weapons/heavy_artillery/p47_rockets.rgd,M8 4.5 in HE Rocket,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/aef/explosive_weapons/light_artillery/pack_howitzer_75mm_barrage_mp.rgd,75mm Pack Howitzer [Barrage],50.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/light_artillery/pack_howitzer_75mm_barrage_victor_target_mp.rgd,75mm Pack Howitzer [Barrage],50.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/light_artillery/pack_howitzer_75mm_he_direct_mp.rgd,75mm Pack Howitzer [Barrage],0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/explosive_weapons/light_artillery/pack_howitzer_75mm_heat_direct_mp.rgd,75mm Pack Howitzer [Barrage],0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/explosive_weapons/light_artillery/pack_howitzer_75mm_heat_mp.rgd,75mm Pack Howitzer [Barrage],50.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/light_artillery/pack_howitzer_75mm_white_phosphorous_mp.rgd,75mm Pack Howitzer [White Phosphorous Barrage],50.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/light_artillery/t34_calliope_rocket_no_fire_mp.rgd,Calliope dummy weapon for UI,50.0,200.0,160.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/light_artillery/t_34_calliope_114mm_rocket_mp.rgd,183mm Calliope Rockets,150.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/light_artillery/t_34_calliope_183mm_rocket_mp.rgd,183mm Calliope Rockets,150.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m1_81mm_mortar_barrage_mp.rgd,M1 81mm Mortar,100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m1_81mm_mortar_barrage_victor_target_mp.rgd,M1 81mm Mortar,100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m1_81mm_mortar_team_smoke_mp.rgd,M1 81mm Mortar (Smoke),100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m1_81mm_mortar_white_phosphorous_barrage_mp.rgd,81mm Mortar - M57 WP (White Phosphorous) Round,100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m2_107mm_mortar_barrage_mp.rgd,HM_38 120mm Mortar Barrage,150.0,450.0,360.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m2_107mm_mortar_smoke_mp.rgd,HM_38 120mm Mortar Smoke,150.0,450.0,360.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m2_107mm_mortar_victor_target_mp.rgd,HM_38 120mm Mortar Barrage,150.0,450.0,360.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m2_60mm_mortar_barrage_mp.rgd,M2 60mm Mortar,50.0,150.0,120.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m2_60mm_mortar_counter_barrage_mp.rgd,M2 60mm Mortar,50.0,150.0,120.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m2_60mm_mortar_mp.rgd,M2 60mm Mortar,1.0,150.0,120.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/explosive_weapons/mortar/m2_60mm_mortar_team_smoke_mp.rgd,M2 60mm Mortar (Smoke),50.0,150.0,120.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/flame_throwers/assault_engineer_flamethrower.rgd,M2 Flamethrower,5.0,25.0,20.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50_cal_api_mp.rgd,M2 Browning .50 Caliber Machine Gun (Base Defenses),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/aef_base_m2hb_50cal_mp.rgd,M2 Browning .50 Caliber Machine Gun (Base Defenses),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m1917_30cal_mp.rgd,30cal mounted on WC51,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/dodge_wc51_m2hb_50cal_mp.rgd,50 cal mounted on the top (WC51),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_left_mp.rgd,50cal HMG (M15A1 AA Half-track - Left),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_50cal_right_mp.rgd,50cal HMG (M15A1 AA Half-track - Right),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m15a1_aa_half_track_dummy_mp.rgd,50cal HMG (M15A1 AA Half-track - Left),0.0,150.0,120.0,25.0,20.0,75.0,60.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_api_mp.rgd,USA 30cal HMG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m1919a4_30cal_mp.rgd,USA 30cal HMG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m20_utility_car_m2hb_50cal_mounted_mp.rgd,50 cal mounted on the top (M20 Scout Car),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_api_mp.rgd,M2 Browning .50 Caliber Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m2hb_50cal_mp.rgd,M2 Browning .50 Caliber Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m3_halftrack_m2hb_50cal_mp.rgd,M2 .50 Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m7b1_priest_m2hb_50cal_mounted_mp.rgd,50 cal mounted on the top (M7 Priest),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/m8_greyhound_m2hb_50cal_mounted_mp.rgd,50 cal mounted on the top (M8 Greyhound),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/p47_50cal_machineguns.rgd,.50 cal P-47,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/aef/small_arms/machine_gun/heavy_machine_gun/sherman_m10_m36_m2hb_50cal_mounted_tank_mp.rgd,50cal HMG (Sherman / M36 / M10),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_coaxial_mp.rgd,M1919 .30 cal coaxial,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/m5a1_stuart_m1919a4_30_cal_hull_mp.rgd,M1919 .30 cal front,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_coaxial_vehicle_turret_mp.rgd,Coaxial MG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/m8_greyhound_m1919a4_30cal_coaxial_mp.rgd,M1919 .30 cal coaxial [Greyhound],0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/paratrooper_m1919a6_lmg_moving_mp.rgd,M1919A6 LMG (Paratrooper),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_coaxial_vehicle_turret_mp.rgd,Coaxial MG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/pershing_vehicle_hull_mp.rgd,Hull MG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/rifleman_m2stinger_lmg_mp.rgd,MG42 LMG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_30cal_lmg_mp.rgd,M1919A6 LMG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/riflemen_bar_30_06_light_machine_gun_mp.rgd,M1918 Browning Automatic Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret105_mp.rgd,Coaxial Turret 105 Vehicle Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_coaxial_vehicle_turret_mp.rgd,Coaxial MG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/light_machine_gun/sherman_m4a3_vehicle_hull_mp.rgd,Hull MG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_crew_mp.rgd,Thompson SMG (Captain),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_elite_mp.rgd,Thompson SMG (Paratrooper),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_regular_mp.rgd,Thompson SMG (Paratrooper),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/aef/small_arms/machine_gun/sub_machine_gun/m1_thompson_smg_veteran_mp.rgd,Thompson SMG (Paratrooper),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/aef/small_arms/machine_gun/sub_machine_gun/m3_grease_gun_crew_mp.rgd,M3 Grease Gun (Vehicle Crew),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/aef/small_arms/single_fire/pistol/m1911_colt_pistol_mp.rgd,M1911 Colt Pistol,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/aef/small_arms/single_fire/rifle/m1_carbine_crew_mp.rgd,M1 Carbine (Rear Echelon),0.0,100.0,80.0,33.29999923706055,26.64,66.5999984741211,53.28,100.0,80.0
+weapon/aef/small_arms/single_fire/rifle/m1_carbine_elite_mp.rgd,M1-A1 Carbine (Paratrooper),0.0,100.0,80.0,33.29999923706055,26.64,66.5999984741211,53.28,100.0,80.0
+weapon/aef/small_arms/single_fire/rifle/m1_carbine_regular_mp.rgd,M1-A1 Carbine (Paratrooper),0.0,100.0,80.0,33.29999923706055,26.64,66.5999984741211,53.28,100.0,80.0
+weapon/aef/small_arms/single_fire/rifle/m1_carbine_veteran_mp.rgd,M1-A1 Carbine (Paratrooper),0.0,100.0,80.0,33.29999923706055,26.64,66.5999984741211,53.28,100.0,80.0
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_crew_mp.rgd,M1 Garand (Mortar Crew),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_elite_mp.rgd,M1 Garand (Rifleman),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_regular_mp.rgd,M1 Garand (Rifleman),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_scoped_mp.rgd,M1 Garand (Rifleman),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_sniper_mp.rgd,M1-A1 Carbine (Pathfinder),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/single_fire/rifle/m1_garand_rifle_veteran_mp.rgd,M1 Garand (Rifleman),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/aef/small_arms/single_fire/shotgun/browning_auto_5_buckshot_shotgun_mp.rgd,Browning Auto 5 buck,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/aef/small_arms/single_fire/shotgun/browning_auto_5_slugshot_shotgun_mp.rgd,browning auto 5 slug,0.0,100.0,80.0,33.29999923706055,26.64,66.5999984741211,53.28,100.0,80.0
+weapon/axis/ballistic_weapon/anti_tank_gun/75mm_pak_40_mp.rgd,PzGr. 39 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak36_37mm_at_gun_apcr_mp.rgd,BR 240,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak36_37mm_at_gun_heat_mp.rgd,BR 240,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak36_37mm_at_gun_mp.rgd,BR 240,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak40_75mm_apcr_mp.rgd,Pz Gr 40 APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak40_75mm_he_mp.rgd,Sprgr.34,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak40_75mm_heat_mp.rgd,PzGr. 38 HL/B (HEAT),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak41_28mm_apcnr_mp.rgd,BR 240,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak41_55mm_apcnr_mp.rgd,APCNR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak43_88mm_atg_apcr_mp.rgd,Pz Gr 40/43 APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak43_88mm_atg_he_mp.rgd,Sprgr 43 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/anti_tank_gun/pak43_88mm_atg_mp.rgd,Pz Gr 39/43 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/infantry_anti_tank_weapon/20mm_fliegerfaust_aaw_mp.rgd,fliegerfaust,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/infantry_anti_tank_weapon/20mm_solothurn_s18_atr_mp.rgd,Solothurn S18,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/infantry_anti_tank_weapon/panzerbusche_39_mp.rgd,AT Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/infantry_anti_tank_weapon/panzerfaust_atw_mp.rgd,Panzerfaust Anti Tank Weapon,5.0,75.0,60.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/axis/ballistic_weapon/infantry_anti_tank_weapon/panzerschreck_atw_mp.rgd,Panzerschreck Anti Tank Weapon,5.0,75.0,60.0,25.0,20.0,50.0,40.0,75.0,60.0
+weapon/axis/ballistic_weapon/tank_gun/brummbar_150mm_mp.rgd,J Gr 38 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/elefant_88mm_gun_apcr_mp.rgd,Pz Gr 40/43 APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/elefant_88mm_gun_he_mp.rgd,Sprgr 43 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/elefant_88mm_gun_mp.rgd,Pz Gr 39/43 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/ostwind_flak_43_37mm_api_mp.rgd,Flak 43 37mm AA gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/ostwind_flak_43_37mm_mp.rgd,Flak 43 37mm AA gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/panther_75mm_apcr_mp.rgd,Pz Gr 40/42 APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/panther_75mm_he_mp.rgd,Sprgr 11 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/panther_75mm_mp.rgd,Pz Gr 39/42 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/panzer_4_75mm_apcr_mp.rgd,Pz Gr 40 APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/panzer_4_75mm_he_mp.rgd,Kwk40 75mm Tank Gun (Panzer IV),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/panzer_4_75mm_mp.rgd,Kwk40 75mm Tank Gun (Panzer IV),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/panzer_4_75mm_short_he_mp.rgd,K Gr Rot Pz APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/panzer_4_75mm_short_heat_mp.rgd,Hl Gr 38C HEAT,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/panzer_4_75mm_short_mp.rgd,Kwk40 75mm Tank Gun (Panzer IV),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/puma_50mm_apcr_mp.rgd,Pz Gr 40/1 APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/puma_50mm_he_mp.rgd,Sprgr 38 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/puma_50mm_mp.rgd,Pz Gr 39 APC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/stug_75mm_ap_mp.rgd,Pz Gr 39 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/stug_75mm_apcr_mp.rgd,Pz Gr 40 APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/stug_75mm_he_mp.rgd,75mm KwK 40 L/48,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/stug_75mm_short_ap_mp.rgd,Pz Gr 39 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/stug_75mm_short_he_mp.rgd,K Gr Rot Pz APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/stug_75mm_short_heat_mp.rgd,Hl Gr 38C HEAT,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/stuh_105mm_ap_mp.rgd,,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/stuh_105mm_he_mp.rgd,,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/stuka_20mm_api_mp.rgd,,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/axis/ballistic_weapon/tank_gun/stuka_20mm_flak_mp.rgd,,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/axis/ballistic_weapon/tank_gun/stuka_37mm_api_left_mp.rgd,37mm Stuka BK 37,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/axis/ballistic_weapon/tank_gun/stuka_37mm_api_right_mp.rgd,37mm Stuka BK 37,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/axis/ballistic_weapon/tank_gun/stuka_37mm_flak_left_mp.rgd,37mm Stuka BK 37,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/axis/ballistic_weapon/tank_gun/stuka_37mm_flak_right_mp.rgd,37mm Stuka BK 37,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/axis/ballistic_weapon/tank_gun/tiger_kwk36_88mm_apcr_mp.rgd,Pzgr 40 APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/tiger_kwk36_88mm_he_mp.rgd,Sprgr L/4.5,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/ballistic_weapon/tank_gun/tiger_kwk36_88mm_mp.rgd,Pzgr 39 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/explosive_weapons/heavy_artillery/howitzer_105mm_airburst_barrage_mp.rgd,le FH 18 10.5cm main gun,75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/heavy_artillery/howitzer_105mm_gun_barrage_mp.rgd,le FH 18 10.5cm main gun,75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/heavy_artillery/howitzer_105mm_gun_mp.rgd,le FH 18 10.5cm main gun,75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/heavy_artillery/howitzer_105mm_victor_target_gun_mp.rgd,le FH 18 10.5cm victor target,75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/heavy_artillery/offmap_150mm_he_mp.rgd,152mm ML-20,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/heavy_artillery/offmap_210mm_he_mp.rgd,railway artillery,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/heavy_artillery/stuka_250_kg_bomb_mp.rgd,250 kg bomb,0.0,15.0,12.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/heavy_artillery/stuka_50_kg_bomb_mp.rgd,50kg bomb,0.0,15.0,12.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/heavy_artillery/stuka_plane_crash_mp.rgd,stuka plane crash,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/heavy_artillery/stuka_plane_dogfight_crash.rgd,stuka plane crash,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/light_artillery/panzerwerfer_rockets_mp.rgd,Panzerwerfer rockets,150.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/mortar/grw34_81mm_mortar_barrage_mp.rgd,Granatwerfer 34 81mm Mortar barrage,100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/mortar/grw34_81mm_mortar_team_smoke_mp.rgd,Granatwerfer 34 81mm Mortar (Smoke),100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/explosive_weapons/mortar/grw34_81mm_victor_target_mortar_mp.rgd,Granatwerfer 34 81mm Mortar,100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/flame_throwers/halftrack_flammenwerfer_mp.rgd,Halftrack Flammenwerfer,5.0,50.0,40.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/flame_throwers/halftrack_flammenwerfer_right_mp.rgd,Halftrack Flamethrower Right,5.0,50.0,40.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/flame_throwers/mortar/grw34_81mm_incendiary_mortar_barrage_mp.rgd,Granatwerfer 34 81mm Incendiary Mortar,50.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/flame_throwers/pioneer_flamethrower_mp.rgd,Fw 35,5.0,25.0,20.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg42_mp.rgd,MG42 Heavy Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/bunker_mg_42_api_mp.rgd,MG42 Heavy Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_mp.rgd,MG42 Heavy Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg_42_api_mp.rgd,MG42 Heavy Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_17.rgd,MG-17,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/axis/small_arms/machine_gun/heavy_machine_gun/stuka_mg_81_turret_mp.rgd,MG-81,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/_halftrack_mg42_vehicle_rear_mp.rgd,MG42 Rear,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/grenadier_mg42lmg_mp.rgd,MG42 LMG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_250_mg42_vehicle_mp.rgd,MG42 Front,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/halftrack_mg42_vehicle_mp.rgd,MG42 Front,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_mp.rgd,MG42 Coaxial,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_coaxial_generic_tigerace_mp.rgd,MG42 Coaxial,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg34_hull_mp.rgd,MG42 Coaxial,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_brummbar_mp.rgd,MG42 Top,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_mp.rgd,MG42 Top,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panzerwerfer_mp.rgd,MG42 Front,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_pziv_mp.rgd,MG42 Top,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_stugiv_mp.rgd,MG42 Front,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/ostwind_mg34_hull_mp.rgd,MG42 Hull,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/puma_mg42_mp.rgd,MG42 Coaxial,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_coaxial_generic_mp.rgd,MG42 Coaxial,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/light_machine_gun/scout_car_mg34_pintle_generic_mp.rgd,MG42 Coaxial,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_civilian_mp.rgd,MP40 Sub Machine Gun Pioneer,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_crew_mp.rgd,MP40 Sub Machine Gun Pioneer,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_elite_mp.rgd,MP40 Sub Machine Gun Pioneer,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_regular_mp.rgd,MP40 Sub Machine Gun Pioneer,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/axis/small_arms/machine_gun/sub_machine_gun/mp40_smg_veteran_mp.rgd,MP40 Sub Machine Gun Pioneer,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_civilian_carbine_mp.rgd,MP44 Sub Machine Gun,0.0,100.0,80.0,33.29999923706055,26.64,66.5999984741211,53.28,100.0,80.0
+weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_elite_carbine_mp.rgd,MP44 Sub Machine Gun,0.0,100.0,80.0,33.29999923706055,26.64,66.5999984741211,53.28,100.0,80.0
+weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_regular_carbine_mp.rgd,MP44 Sub Machine Gun,0.0,100.0,80.0,33.29999923706055,26.64,66.5999984741211,53.28,100.0,80.0
+weapon/axis/small_arms/machine_gun/sub_machine_gun/stg44_veteran_carbine_mp.rgd,MP44 Sub Machine Gun,0.0,100.0,80.0,33.29999923706055,26.64,66.5999984741211,53.28,100.0,80.0
+weapon/axis/small_arms/single_fire/pistol/p08_luger_pistol_mp.rgd,Luger P08 9mm Pistol,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/axis/small_arms/single_fire/rifle/g43_rifle_elite_mp.rgd,G43 sniper,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/single_fire/rifle/g43_rifle_regular_mp.rgd,G43 sniper,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/single_fire/rifle/g43_rifle_scoped_mp.rgd,G43 sniper,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/single_fire/rifle/g43_rifle_sniper_mp.rgd,G43 sniper,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/single_fire/rifle/g43_rifle_veteran_mp.rgd,G43 sniper,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_civilian_mp.rgd,Kar-98k Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_crew_mp.rgd,Kar-98k Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_elite_mp.rgd,Kar-98k Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_regular_mp.rgd,Kar-98k Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/single_fire/rifle/kar98k_rifle_veteran_mp.rgd,Kar-98k Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/tank_gun/sdfkz_222_kwk38_20mm_api_mp.rgd,kwk 38 20mm gun AC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/axis/small_arms/tank_gun/sdkfz_222_kwk38_20mm__mp.rgd,kwk 38 20mm gun AC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/anti_tank_gun/17_pounder_atg_apds_mp.rgd,MK 6 Shot,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/anti_tank_gun/17_pounder_atg_he_mp.rgd,Mk 1 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/anti_tank_gun/17_pounder_atg_mp.rgd,Mk 8 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/anti_tank_gun/brit_6_pounder_at_gun_apcr_mp.rgd,MK 5 AP,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/anti_tank_gun/brit_6_pounder_at_gun_apds_mp.rgd,MK 5 AP,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/anti_tank_gun/brit_6_pounder_at_gun_he_mp.rgd,MK 10 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/anti_tank_gun/brit_6_pounder_at_gun_mp.rgd,MK 9 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/infantry_anti_tank_weapon/8mm_model_35_atr_mp.rgd,AT Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/infantry_anti_tank_weapon/boys_at_rifle_mp.rgd,Boys AT Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/infantry_anti_tank_weapon/piat_launcher_mp.rgd,PIAT Launcher,5.0,75.0,60.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/british/ballistic_weapon/tank_gun/aec_75mm_ap_mp.rgd,M61 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/aec_75mm_apcr_mp.rgd,T45 Shot,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/aec_75mm_he_mp.rgd,M48 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/bofor_emplacement_40mm_api_autocannon_mp.rgd,40mm Autocannon (Bofors),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/bofor_emplacement_40mm_autocannon.rgd,40mm Autocannon (Bofors),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/bofor_emplacement_40mm_autocannon_proximity_mp.rgd,40mm Autocannon (Bofors),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/centaur_aa_mk2_twin_polsten_20mm_aa_mp.rgd,Twin Polsten 20mm Cannons (Main),0.0,300.0,240.0,100.0,80.0,200.0,160.0,300.0,240.0
+weapon/british/ballistic_weapon/tank_gun/centaur_aa_mk2_twin_polsten_20mm_api_mp.rgd,Twin Polsten 20mm Cannons (Main),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/centaur_aa_mk2_twin_polsten_20mm_mp.rgd,Twin Polsten 20mm Cannons (Main),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/churchill_avre_spigot_mortar_mp.rgd,290mm Spigot Mortar,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/churchill_mk7_75mm_apcr_mp.rgd,T45 Shot,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/churchill_mk7_75mm_croc_he_mp.rgd,M48 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/churchill_mk7_75mm_croc_mp.rgd,M61 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/churchill_mk7_75mm_he_mp.rgd,M48 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/churchill_mk7_75mm_mp.rgd,M61 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/churchill_mk7_75mm_wp_mp.rgd,Smoke WP Shell (Comet),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/comet_17p_77mm_apds_mp.rgd,SV MK 1 APDS,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/comet_17p_77mm_he_mp.rgd,MK 1 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/comet_17p_77mm_hv_mp.rgd,MK 8 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/comet_smoke_wp_shot_mp.rgd,Smoke WP Shell (Comet),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/cromwell_75mm_apcr_mp.rgd,T45 Shot,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/cromwell_75mm_he_mp.rgd,M48 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/cromwell_75mm_mp.rgd,M61 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/firefly_60lb_ap_rocket_left_mp.rgd,60LB Rocket - AP - Left,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/firefly_60lb_ap_rocket_right_mp.rgd,60LB Rocket - AP - Right,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/sherman_firefly_76mm_apds_mp.rgd,MK 6 Shot,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/sherman_firefly_76mm_he_mp.rgd,Mk 1 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/sherman_firefly_76mm_mp.rgd,Mk 8 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/typhoon_20mm_api_mp.rgd,typhoon 20mm cannons,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/british/ballistic_weapon/tank_gun/typhoon_20mm_flak_mp.rgd,typhoon 20mm cannons,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/british/ballistic_weapon/tank_gun/valentine_75mm_apcr_mp.rgd,T45 Shot,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/valentine_75mm_he_mp.rgd,M48 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/valentine_75mm_mp.rgd,M61 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/ballistic_weapon/tank_gun/valentine_75mm_wp_mp.rgd,Smoke WP Shell (Comet),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/explosive_weapons/heavy_artillery/hawker_typhoon_ap_rocket_left.rgd,RP-3 60 lb,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/british/explosive_weapons/heavy_artillery/hawker_typhoon_ap_rocket_right.rgd,RP-3 60 lb,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/british/explosive_weapons/heavy_artillery/hawker_typhoon_rocket_left.rgd,RP-3 18 lb,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/british/explosive_weapons/heavy_artillery/hawker_typhoon_rocket_right.rgd,RP-3 18 lb,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/british/explosive_weapons/heavy_artillery/offmap_25lb_he_mp.rgd,152mm ML-20,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/heavy_artillery/offmap_5.5in_he_mp.rgd,152mm ML-20,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/heavy_artillery/offmap_7.2in_he_mp.rgd,railway artillery,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/heavy_artillery/sexton_dummy_mp.rgd,M2A1 105mm Howitzer [M7B1 Priest] [Dummy],35.0,180.0,144.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/heavy_artillery/sexton_spg_25_pounder_airburst_mp.rgd,25-Pounder Howitzer [Sexton],75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/heavy_artillery/sexton_spg_25_pounder_barrage_mp.rgd,25-Pounder Howitzer [Sexton],75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/heavy_artillery/sexton_spg_25_pounder_mp.rgd,25-Pounder Howitzer [Sexton],75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/heavy_artillery/sexton_spg_25_pounder_supercharge_mp.rgd,25-Pounder Howitzer [Sexton],75.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/light_artillery/land_mattress_18lb_rocket_mp.rgd,18lb Rocket,150.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/light_artillery/land_mattress_25lb_rocket_mp.rgd,25lb Rocket,150.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/light_artillery/land_mattress_60lb_rocket_mp.rgd,60lb Rocket,150.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/light_artillery/land_mattress_phosphorus_rocket_mp.rgd,25lb Rocket,150.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/explosive_weapons/light_artillery/z_battery_18lb_rocket_mp.rgd,18lb Rocket,15.0,150.0,120.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/flame_throwers/churchill_flamethrower_mp.rgd,Crocodile Flamethrower,5.0,50.0,40.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/flame_throwers/tommy_flamethrower.rgd,No. 2 Flamethrower,5.0,25.0,20.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/flame_throwers/universal_carrier_ronson_flamethrower_system_mp.rgd,Ronson Flamethrower System (Universal Carrier),5.0,50.0,40.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_api_mp.rgd,Vickers HMG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/bunker_vickers_hmg_mp.rgd,Vickers HMG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/sexton_mounted_machinegun_mp.rgd,50 cal mounted on the top (M7 Priest),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_bren_lmg_mp.rgd,Bren LMG (Universal Carrier),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/universal_carrier_vickers_mmg_mounted_mp.rgd,Vickers MMG (Universal Carrier),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_api_mp.rgd,Vickers HMG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/heavy_machine_gun/vickers_hmg_mp.rgd,Vickers HMG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/aec_coaxial_vehicle_turret_mp.rgd,Besa Coaxial MG (Churchill Mk VII),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/aec_vickers_pintle_mp.rgd,Vickers MMG (Universal Carrier),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_avre_mp.rgd,Besa Coaxial MG (Churchill Mk VII),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_coaxial_vehicle_turret_mp.rgd,Besa Coaxial MG (Churchill Mk VII),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_mk7_vehicle_hull_mp.rgd,Besa Coaxial MG (Churchill Mk VII),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/churchill_vickers_pintle_mp.rgd,Vickers MMG (Universal Carrier),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/comet_coaxial_vehicle_turret_mp.rgd,Besa Coaxial MG (Comet),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/comet_vehicle_hull_gun_mp.rgd,Besa Hull MG (Comet),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/commando_vickers_k_light_machine_gun_mp.rgd,Vickers K,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_coaxial_vehicle_turret_mp.rgd,Besa Coaxial MG (Churchill Mk VII),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/cromwell_vehicle_hull_mp.rgd,Besa Hull MG (Churchill Mk VII),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/sherman_firefly_coaxial_vehicle_turret_mp.rgd,Coaxial MG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/tommy_bren_light_machine_gun_mp.rgd,Bren Light Machine Gun (Tommy),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/light_machine_gun/tommy_lewis_light_machine_gun_mp.rgd,Lewis Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/machine_gun/sub_machine_gun/churchill_hull_defense_gun_left_mp.rgd,Sten 9mm Sub-Machine Gun (Engineers),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/british/small_arms/machine_gun/sub_machine_gun/churchill_hull_defense_gun_right_mp.rgd,Sten 9mm Sub-Machine Gun (Engineers),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_crew_mp.rgd,Sten 9mm Sub-Machine Gun (Engineers),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_elite_mp.rgd,Sten 9mm Sub-Machine Gun (Engineers),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_regular_mp.rgd,Sten 9mm Sub-Machine Gun (Engineers),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/british/small_arms/machine_gun/sub_machine_gun/sten_smg_veteran_mp.rgd,Sten 9mm Sub-Machine Gun (Engineers),0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/british/small_arms/machine_gun/sub_machine_gun/sten_suppressed_elite_mp.rgd,STEN Mk VI Silenced SMG,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/british/small_arms/single_fire/rifle/lee_enfield_crew_mp.rgd,Lee Enfield Rifle (Tommy),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/single_fire/rifle/lee_enfield_elite_mp.rgd,Lee Enfield Rifle (Tommy),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/single_fire/rifle/lee_enfield_regular_mp.rgd,Lee Enfield Rifle (Tommy),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/single_fire/rifle/lee_enfield_scoped_mp.rgd,Lee Enfield Rifle (Tommy),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/single_fire/rifle/lee_enfield_sniper_mp.rgd,Lee Enfield Rifle (Sniper),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/british/small_arms/single_fire/rifle/lee_enfield_veteran_mp.rgd,Lee Enfield Rifle (Tommy),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/anti_tank_gun/53k_45mm_m1937_at_gun_apcr_mp.rgd,BR 240P APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/anti_tank_gun/53k_45mm_m1937_at_gun_frag_mp.rgd,BR 240,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/anti_tank_gun/53k_45mm_m1937_at_gun_mp.rgd,BR 240,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/anti_tank_gun/zis3_76mm_m1942_at_gun_apcr_mp.rgd,BR-350P APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/anti_tank_gun/zis3_76mm_m1942_at_gun_he_mp.rgd,OF-350M HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/anti_tank_gun/zis3_76mm_m1942_at_gun_mp.rgd,BR-350SP APBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/infantry_anti_tank_weapon/ampulomet_incendiary_molotov_launcher.rgd,Molotov Cocktail,5.0,75.0,60.0,25.0,20.0,50.0,40.0,75.0,60.0
+weapon/soviet/ballistic_weapon/infantry_anti_tank_weapon/conscipt_ptrs_41_mp.rgd,AT Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/infantry_anti_tank_weapon/ptrd_41_anti_tank_rifle_mp.rgd,AT Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/72-k_25mm_flak_emplacement_api_mp.rgd,,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/72-k_25mm_flak_emplacement_mp.rgd,,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/il2_37mm_ns37_api_mp.rgd,NS-37 37mm,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/soviet/ballistic_weapon/tank_gun/il2_37mm_ns37_flak_mp.rgd,NS-37 37mm,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/soviet/ballistic_weapon/tank_gun/is2_d25t_122mm_he_mp.rgd,OF 471 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/is2_d25t_122mm_mp.rgd,BR 471 APHE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/isu152_ml-20s_152mm_armor_piercing_mp.rgd,BR 540,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/isu152_ml-20s_152mm_howitzer_gun_barrage_mp.rgd,OF 540,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/kv-8_45mm_apcr_mp.rgd,BR 240P APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/kv-8_45mm_frag_mp.rgd,BR 240,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/kv-8_45mm_mp.rgd,BR 240,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/kv1_76mm_ap_mp.rgd,BR-350SP APBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/kv1_76mm_apcr_mp.rgd,BR-350P APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/kv1_76mm_he_mp.rgd,OF-350M HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/kv2_m10_152mm.rgd,OF 530,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/su76_76mm_zis-3sh_gun_apcr_mp.rgd,BR-350P APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/su76_76mm_zis-3sh_gun_he_mp.rgd,OF-350M HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/su76_76mm_zis-3sh_gun_mp.rgd,BR-350SP APBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/su85_d5t_85mm__mp.rgd,BR 365K APHE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/su85_d5t_85mm_apcr_mp.rgd,BR 365P APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/su85_d5t_85mm_he_mp.rgd,O 365K HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t34_76mm_apcr_mp.rgd,BR-350P APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t34_76mm_he_mp.rgd,OF-350M HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t34_76mm_mp.rgd,BR-350SP APBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t34_85_zis-s-53_85mm_t34_he_mp.rgd,O 365K HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t34_85_zis-s-53_85mm_t34_mp.rgd,BR 365K APHE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t34_85zis-s-53_85mm_t34_apcr_mp.rgd,BR 365P APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t60_tnsh_20mm_api_mp.rgd,kwk 38 20mm gun AC (Flak Emplacement),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t60_tnsh_20mm_flak_mp.rgd,,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t70_m1938_45mm_apcr_mp.rgd,BR 240P APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t70_m1938_45mm_frag_mp.rgd,BR 240,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/ballistic_weapon/tank_gun/t70_m1938_45mm_mp.rgd,BR 240,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/explosive_weapons/heavy_artillery/152mm_m-30_barrage_mp.rgd,152mm ML-20,100.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/heavy_artillery/152mm_m-30_disabled_mp.rgd,152mm ML-20,35.0,250.0,200.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/heavy_artillery/152mm_m-30_precision_mp.rgd,152mm ML-20,100.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/heavy_artillery/203mm_b-4_barrage_mp.rgd,203mm B-4 Howitzer ,150.0,1500.0,1200.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/heavy_artillery/203mm_b-4_commander_mp.rgd,203mm B-4 Howitzer ,150.0,1500.0,1200.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/heavy_artillery/203mm_b-4_commander_precise_mp.rgd,203mm B-4 Howitzer ,150.0,1500.0,1200.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/heavy_artillery/il2_rockets_mp.rgd,IL2 rockets,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/soviet/explosive_weapons/heavy_artillery/il_2_plane_crash_mp.rgd,il-2 plane crash,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/heavy_artillery/offmap_122mm_he_mp.rgd,152mm ML-20,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/heavy_artillery/offmap_152mm_he_mp.rgd,152mm ML-20,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/heavy_artillery/offmap_203mm_he_mp.rgd,railway artillery,0.0,1000.0,800.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/light_artillery/il2_anti_tank_bombs.rgd,PTAB AT Bomb,0.0,25.0,20.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/light_artillery/il2_vya-23_autocannon_mp.rgd,VYa-23 23mm Autocannon,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/soviet/explosive_weapons/light_artillery/il2_yva-23_autocannon_api_mp.rgd,VYa-23 23mm Autocannon,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/soviet/explosive_weapons/light_artillery/katyusha_132mm_rocket_mp.rgd,Katyusha rockets,150.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/light_artillery/katyusha_300mm_rocket_mp.rgd,Katyusha rockets,150.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/light_artillery/katyusha_82mm_rocket_mp.rgd,Katyusha rockets,150.0,750.0,600.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/hm_38_120mm_mortar_barrage_mp.rgd,HM_38 120mm Mortar Barrage,150.0,450.0,360.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/hm_38_120mm_mortar_flares_mp.rgd,HM_38 120mm Mortar Barrage,150.0,450.0,360.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/hm_38_120mm_mortar_precision_barrage_mp.rgd,HM_38 120mm Mortar Barrage,150.0,450.0,360.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/hm_38_120mm_mortar_smoke_mp.rgd,HM_38 120mm Mortar Smoke,150.0,450.0,360.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/pm41_82mm_mortar_barrage_mp.rgd,PM41_82mm Mortar Barrage,100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/pm41_82mm_mortar_flare_mp.rgd,PM41_82mm Mortar Barrage,100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/pm41_82mm_mortar_precision_barrage_mp.rgd,PM41_82mm Mortar Barrage,100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/pm41_82mm_mortar_smoke_mp.rgd,Smoke Mortar Barrage,100.0,300.0,240.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/rm_38_50mm_mortar_barrage_mp.rgd,M2 60mm Mortar,50.0,150.0,120.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/rm_38_50mm_mortar_flare_mp.rgd,PM41_82mm Mortar Barrage,50.0,150.0,120.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/rm_38_50mm_mortar_mp.rgd,M2 60mm Mortar,50.0,150.0,120.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/rm_38_50mm_mortar_precision_barrage_mp.rgd,M2 60mm Mortar,50.0,150.0,120.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/explosive_weapons/mortar/rm_38_50mm_mortar_smoke_mp.rgd,M2 60mm Mortar (Smoke),50.0,150.0,120.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/flame_throwers/flamethrower_roks3_mp.rgd,ROKS-3 Flamethrower,5.0,25.0,20.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/flame_throwers/kv8_ato-41_flamethrower_mp.rgd,ATO-41 Flame Thrower,5.0,50.0,40.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_position_dshk_mp.rgd,Bunker DShK,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/bunker_starting_postion_dshk_api_mp.rgd,Bunker DShK,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_pintle_mounted_tank_mp.rgd,DShK 38 Top,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_api_mp.rgd,DShK Sokolov,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/dshk_38_sokolov_mp.rgd,DShK Sokolov,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/il2_12mm_berezin_turret_mp.rgd,DShK Sokolov,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m3a1_scout_car_m2hb_hmg_mp.rgd,M2 .50 Machine Gun Front,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_m2hb_hmg_mp.rgd,M2 .50 Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/m5_halftrack_quad_50cal_m2hb_mp.rgd,Quad 50 cal ,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_api_mp.rgd,M1910 Maxim,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/maxim_m1910_hmg_mp.rgd,M1910 Maxim,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/heavy_machine_gun/sg43_goryunov_hmg_mp.rgd,M1910 Maxim,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_hull_mp.rgd,DT Light Machine Gun Hull,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_mp.rgd,Coaxial Turret Vehicle Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/coaxial_vehicle_turret_rear_mp.rgd,DT LMG Turret Rear,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/guard_troop_dp-28_light_machine_gun_mp.rgd,DP-28 Light Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/il2_7mm_shkas_machine_gun_mp.rgd,7.62 mm ShKAS,0.0,300.0,240.0,50.0,40.0,150.0,120.0,300.0,240.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t-70m_coaxial_vehicle_mp.rgd,DT Light Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_hull_mp.rgd,DT Light Machine Gun Hull,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/light_machine_gun/t34_76_85_coaxial_vehicle_turret_mp.rgd,Coaxial Turret Vehicle Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_civilian_mp.rgd,PPSh 41 SMG,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_crew_mp.rgd,PPSh 41 SMG,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_elite_mp.rgd,PPSh 41 SMG,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_regular_mp.rgd,PPSh 41 SMG,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/soviet/small_arms/machine_gun/sub_machine_gun/ppsh_smg_veteran_mp.rgd,PPSh 41 SMG,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/soviet/small_arms/single_fire/pistol/nagant_m1895_revolver_mp.rgd,Nagant Revolver,0.0,50.0,40.0,16.600000381469727,13.28,33.29999923706055,26.64,50.0,40.0
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_civilian_mp.rgd,Mosin Nagant Guards,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_crew_mp.rgd,Mosin Nagant Conscript,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_elite_mp.rgd,Mosin Nagant Conscript,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_regular_mp.rgd,Mosin Nagant Conscript,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_sniper_mp.rgd,Mosin Nagant Sniper Rifle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/single_fire/rifle/mosin_rifle_veteran_mp.rgd,Mosin Nagant Conscript,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/single_fire/rifle/svt_rifle_civilian_mp.rgd,SVT,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/single_fire/rifle/svt_rifle_elite_mp.rgd,SVT,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/single_fire/rifle/svt_rifle_regular_mp.rgd,SVT,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/soviet/small_arms/single_fire/rifle/svt_rifle_veteran_mp.rgd,SVT,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/anti_tank_gun/leichtgeschutz_105mm_recoilless_rifle_he_mp.rgd,10.5 cm Leichtgesch?tz 40,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/anti_tank_gun/leichtgeschutz_105mm_recoilless_rifle_heat_mp.rgd,10.5 cm Leichtgesch?tz 40,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/anti_tank_gun/raketenwerfer43_88mm_wg_mp.rgd,8.8cm Raketenwerfer 43,4.5,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/jagdpanzer_iv_pak_42_75mm_apcr_mp.rgd,Pz Gr 40/42 APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/jagdpanzer_iv_pak_42_75mm_he_mp.rgd,Sprgr 11 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/jagdpanzer_iv_pak_42_75mm_mp.rgd,Pz Gr 39/42 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/jagdtiger_pak_44_128mm_gun_he_mp.rgd,Sprgr L/5 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/jagdtiger_pak_44_128mm_gun_mp.rgd,Pz Gr 43 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/luchs_kwk38_20mm_api_mp.rgd,Kwk 38 20mm AC (Luchs),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/luchs_kwk38_20mm_mp.rgd,Kwk 38 20mm AC (Luchs),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/sdkfz_251_17_flak_20mm_flak38.rgd,Flak 38 20mm AA gun (Flak Halftrack),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/sdkfz_251_17_flak_20mm_flak38_api_mp.rgd,Flak 38 20mm AA gun (Flak Halftrack),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/tiger_kwk43_88mm_apcr_mp.rgd,Pz Gr 40/43 APCR,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/tiger_kwk43_88mm_he_mp.rgd,Sprgr 43 HE,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/ballistic_weapon/tank_gun/tiger_kwk43_88mm_mp.rgd,Pz Gr 39/43 APCBC,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/explosive_weapons/heavy_artillery/sturmtiger_rw_61_380mm_rocket_launcher.rgd,Sturmtiger 380mm Rocket Launcher,0.0,300.0,240.0,100.0,80.0,200.0,160.0,300.0,240.0
+weapon/west_german/explosive_weapons/heavy_artillery/walking_stuka_rockets_mp.rgd,Walking Stuka Rockets (280mm),150.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/west_german/explosive_weapons/light_artillery/le_ig_18_howitzer_75mm_barrage_mp.rgd,Ig.18 7.5cm infantry gun Barrage Weapon,50.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/west_german/explosive_weapons/light_artillery/le_ig_18_howitzer_75mm_barrage_smoke_mp.rgd,Ig.18 7.5cm infantry gun Barrage Weapon,50.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/west_german/explosive_weapons/light_artillery/le_ig_18_howitzer_75mm_creeping_barrage_mp.rgd,Ig.18 7.5cm infantry gun Barrage Weapon,50.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/west_german/explosive_weapons/light_artillery/le_ig_18_howitzer_75mm_he_direct_mp.rgd,IG 18 7.5cm Infantry Support Gun (ISG),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/explosive_weapons/light_artillery/le_ig_18_howitzer_75mm_heat_direct_mp.rgd,Ig.18 7.5cm infantry gun Barrage Weapon (Hollow),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/explosive_weapons/light_artillery/le_ig_18_howitzer_75mm_hollow_charge_shot_mp.rgd,Ig.18 7.5cm infantry gun Barrage Weapon (Hollow),50.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/west_german/explosive_weapons/light_artillery/le_ig_18_howitzer_75mm_incendiary_mp.rgd,Ig.18 7.5cm infantry gun Barrage Weapon,50.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/west_german/flame_throwers/hetzer_keobe_flamethrower__mp.rgd,Crocodile Flamethrower,5.0,50.0,40.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/west_german/flame_throwers/walking_stuka_napalm.rgd,stuka flame bombs,150.0,500.0,400.0,-1.0,-1.0,-1.0,-1.0,-1.0,-1.0
+weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg34_mp.rgd,MG34 HMG,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/heavy_machine_gun/hmg_team_mg42_wg_mp.rgd,MG42 Heavy Machine Gun,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/fallschirmjager_gewehr_42_mp.rgd,Fg42,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_coaxial_mp.rgd,MG42 Coaxial,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/generic_mg34_hull_mp.rgd,MG42 Hull,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/hetzer_mg34_pintle_mp.rgd,MG34 Pintle,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg34_hull_mp.rgd,MG42 Hull,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_mp.rgd,Browning 50cal Rear,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/jagdtiger_mg42_rear_upgrade_mp.rgd,Browning 50cal Rear,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/kubelwagen_mg34_pintle_mp.rgd,MG34 Coaxial,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/luchs_mg34_mounted_mp.rgd,MG34 Coaxial (Luchs),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg34_coaxial_panzer2_mp.rgd,MG42 Coaxial,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_hull_mounted_sturmtiger_mp.rgd,MG42 Hull,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_jagdpanzer_iv_mp.rgd,MG42 Turret [Jagdpanzer IV],0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_king_tiger_mp.rgd,MG42 Top (King Tiger),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/mg42_turret_mounted_panther_wg_mp.rgd,MG42 Top (West German Panther),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/obersoldaten_mg34_lmg_generic_mp.rgd,MG34 LMG [Generic],0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/scout_car_221_mg34_pintle_generic_mp.rgd,MG42 Front,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_234_mg42_mp.rgd,MG42 Front (Puma),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_250_mg34_mp.rgd,MG42 Front,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_mp.rgd,MG42 Front,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/machine_gun/light_machine_gun/sdkfz_251_mg42_rear_mp.rgd,MG42 Rear,0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/tank_gun/flak_emplacement_20mm.rgd,kwk 38 20mm gun AC (Flak Emplacement),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0
+weapon/west_german/small_arms/tank_gun/flak_emplacement_20mm_api_mp.rgd,kwk 38 20mm gun AC (Flak Emplacement),0.0,150.0,120.0,50.0,40.0,100.0,80.0,150.0,120.0

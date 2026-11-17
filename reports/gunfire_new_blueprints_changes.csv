@@ -1,0 +1,10 @@
+file,source,change
+ebps/projectile/bullet_303_cal_inf_mp.rgd,copy of ebps/projectile/bullet_303_cal_mp.rgd,is_visible_in_game=False
+ebps/projectile/bullet_30_cal_carbine_inf_mp.rgd,copy of ebps/projectile/bullet_30_cal_carbine_mp.rgd,is_visible_in_game=False
+ebps/projectile/bullet_30_cal_inf_mp.rgd,copy of ebps/projectile/bullet_30_cal_mp.rgd,is_visible_in_game=False
+ebps/projectile/bullet_45_cal_inf_mp.rgd,copy of ebps/projectile/bullet_45_cal_mp.rgd,is_visible_in_game=False
+ebps/projectile/bullet_762x25mm_inf_mp.rgd,copy of ebps/projectile/bullet_762x25mm_mp.rgd,is_visible_in_game=False
+ebps/projectile/bullet_762x54mm_inf_mp.rgd,copy of ebps/projectile/bullet_762x54mm_mp.rgd,is_visible_in_game=False
+ebps/projectile/bullet_792x33mm_inf_mp.rgd,copy of ebps/projectile/bullet_792x33mm_mp.rgd,is_visible_in_game=False
+ebps/projectile/bullet_792x57mm_inf_mp.rgd,copy of ebps/projectile/bullet_792x57mm_mp.rgd,is_visible_in_game=False
+ebps/projectile/bullet_9x19mm_inf_mp.rgd,copy of ebps/projectile/bullet_9x19mm_mp.rgd,is_visible_in_game=False

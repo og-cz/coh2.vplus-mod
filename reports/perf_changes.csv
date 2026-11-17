@@ -1,0 +1,66 @@
+file,field,old,new,why
+ebps/projectile/bullet_127x108mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_127x108mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0020000000949949026,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_127x108mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_127x108mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0020000000949949026,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_145x114mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_145x114mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0020000000949949026,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_303_cal_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_303_cal_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_30_cal_api_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_30_cal_api_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_30_cal_carbine_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_30_cal_carbine_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_30_cal_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_30_cal_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_45_cal_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_45_cal_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_50_cal_api_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_50_cal_api_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0020000000949949026,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_50_cal_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_50_cal_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0020000000949949026,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_762x25mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_762x25mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_762x54mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_762x54mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_762x54mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_762x54mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_792x107mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_792x107mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_792x33mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_792x33mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_792x57mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_792x57mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_792x57mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_792x57mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_792x94mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_792x94mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_9x19mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,bullet impact (machine-gun projectile)
+ebps/projectile/bullet_9x19mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,bullet impact (machine-gun projectile)
+ebps/projectile/explosion_ricochet_projectile_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,mortar_crater,,shrapnel fragment
+ebps/projectile/explosion_ricochet_projectile_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0035000001080334187,0.0,shrapnel fragment
+ebps/projectile/explosion_ricochet_projectile_mp.rgd,projectile_ext/spawn_collision_fx,True,False,shrapnel fragment
+ebps/projectile/explosion_shrapnel_projectile_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/explosion_shrapnel_projectile_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0005000000237487257,0.0,shrapnel fragment
+ebps/projectile/explosion_shrapnel_projectile_mp.rgd,projectile_ext/spawn_collision_fx,True,False,shrapnel fragment
+ebps/projectile/explosion_wp_fragment_projectile_mp.rgd,projectile_ext/spawn_collision_fx,True,False,shrapnel fragment
+ebps/projectile/shell_ricochet_100mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/shell_ricochet_100mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,shrapnel fragment
+ebps/projectile/shell_ricochet_120mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/shell_ricochet_120mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,shrapnel fragment
+ebps/projectile/shell_ricochet_20mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/shell_ricochet_20mm_api_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,shrapnel fragment
+ebps/projectile/shell_ricochet_30mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/shell_ricochet_30mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,shrapnel fragment
+ebps/projectile/shell_ricochet_40mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/shell_ricochet_40mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,shrapnel fragment
+ebps/projectile/shell_ricochet_50mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/shell_ricochet_50mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,shrapnel fragment
+ebps/projectile/shell_ricochet_60mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/shell_ricochet_60mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,shrapnel fragment
+ebps/projectile/shell_ricochet_70mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/shell_ricochet_70mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,shrapnel fragment
+ebps/projectile/shell_ricochet_80mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/shell_ricochet_80mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,shrapnel fragment
+ebps/projectile/shell_ricochet_90mm_mp.rgd,explosion_ext/terrain_hit/deformation/deform_decal_file,crater,,shrapnel fragment
+ebps/projectile/shell_ricochet_90mm_mp.rgd,explosion_ext/terrain_hit/deformation/vertical_scale,0.0010000000474974513,0.0,shrapnel fragment

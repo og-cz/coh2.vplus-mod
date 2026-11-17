@@ -1,0 +1,46 @@
+file,what,detail
+upgrade/vplus_radio_man_mp.rgd,new upgrade,"60.0 munitions, 20.0 s, once per squad"
+weapon/aef/explosive_weapons/mortar/m2_60mm_mortar_vplus_radio_mp.rgd,new weapon,copy of weapon/aef/explosive_weapons/mortar/m2_60mm_mortar_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; same reload as the gun
+ebps/races/aef/team_weapons/mortars/m2_60mm_mortar_mp.rgd,gun entity,"mortar: hardpoint_08 = m2_60mm_mortar_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 m2_60mm_mortar_mp"
+weapon/aef/explosive_weapons/mortar/m1_81mm_mortar_vplus_radio_mp.rgd,new weapon,copy of weapon/aef/explosive_weapons/mortar/m1_81mm_mortar_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; same reload as the gun
+ebps/races/aef/team_weapons/mortars/m1_81mm_mortar_mp.rgd,gun entity,"mortar: hardpoint_08 = m1_81mm_mortar_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 m1_81mm_mortar_mp"
+weapon/aef/explosive_weapons/mortar/m2_107mm_mortar_vplus_radio_mp.rgd,new weapon,copy of weapon/aef/explosive_weapons/mortar/m2_107mm_mortar_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; same reload as the gun
+ebps/races/aef/team_weapons/mortars/m2_107mm_mortar_mp.rgd,gun entity,"mortar: hardpoint_08 = m2_107mm_mortar_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 m2_107mm_mortar_mp"
+weapon/soviet/explosive_weapons/mortar/rm_38_50mm_mortar_vplus_radio_mp.rgd,new weapon,copy of weapon/soviet/explosive_weapons/mortar/rm_38_50mm_mortar_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; same reload as the gun
+ebps/races/german/team_weapons/mortar/granatewerfer_36_50mm_mortar_mp.rgd,gun entity,"mortar: hardpoint_08 = rm_38_50mm_mortar_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 rm_38_50mm_mortar_mp"
+weapon/axis/explosive_weapons/mortar/grw34_81mm_mortar_vplus_radio_mp.rgd,new weapon,copy of weapon/axis/explosive_weapons/mortar/grw34_81mm_mortar_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; same reload as the gun
+ebps/races/german/team_weapons/mortar/granatewerfer_34_81mm_mortar_mp.rgd,gun entity,"mortar: hardpoint_08 = grw34_81mm_mortar_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 grw34_81mm_mortar_mp"
+weapon/soviet/explosive_weapons/mortar/hm_38_120mm_mortar_vplus_radio_mp.rgd,new weapon,copy of weapon/soviet/explosive_weapons/mortar/hm_38_120mm_mortar_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; same reload as the gun
+ebps/races/german/team_weapons/mortar/granatewerfer_42_120mm_mortar_mp.rgd,gun entity,"mortar: hardpoint_08 = hm_38_120mm_mortar_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 hm_38_120mm_mortar_mp"
+ebps/races/soviet/team_weapons/mortar/rm38_50mm_mortar_mp.rgd,gun entity,"mortar: hardpoint_08 = rm_38_50mm_mortar_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 rm_38_50mm_mortar_mp"
+weapon/soviet/explosive_weapons/mortar/pm41_82mm_mortar_vplus_radio_mp.rgd,new weapon,copy of weapon/soviet/explosive_weapons/mortar/pm41_82mm_mortar_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; same reload as the gun
+ebps/races/soviet/team_weapons/mortar/pm41_82mm_mortar_mp.rgd,gun entity,"mortar: hardpoint_08 = pm41_82mm_mortar_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 pm41_82mm_mortar_mp"
+ebps/races/soviet/team_weapons/mortar/hm-120_38_mortar_mp.rgd,gun entity,"mortar: hardpoint_08 = hm_38_120mm_mortar_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 hm_38_120mm_mortar_mp"
+weapon/aef/explosive_weapons/light_artillery/pack_howitzer_75mm_he_direct_vplus_radio_mp.rgd,new weapon,copy of weapon/aef/explosive_weapons/light_artillery/pack_howitzer_75mm_he_direct_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; same reload as the gun
+ebps/races/aef/team_weapons/field_artillery/m1_75mm_pack_howitzer_mp.rgd,gun entity,"infantry_gun: hardpoint_08 = pack_howitzer_75mm_he_direct_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 pack_howitzer_75mm_he_direct_mp"
+weapon/west_german/explosive_weapons/light_artillery/le_ig_18_howitzer_75mm_he_direct_vplus_radio_mp.rgd,new weapon,copy of weapon/west_german/explosive_weapons/light_artillery/le_ig_18_howitzer_75mm_he_direct_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; same reload as the gun
+ebps/races/west_german/team_weapons/le_ig_18_inf_support_gun/le_ig_18_inf_support_gun_mp.rgd,gun entity,"infantry_gun: hardpoint_08 = le_ig_18_howitzer_75mm_he_direct_vplus_radio_mp (disabled until Radio Man), source hardpoint_01 le_ig_18_howitzer_75mm_he_direct_mp"
+weapon/axis/explosive_weapons/heavy_artillery/howitzer_105mm_gun_vplus_radio_mp.rgd,new weapon,"copy of weapon/axis/explosive_weapons/heavy_artillery/howitzer_105mm_gun_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; reload 25s, no burst"
+ebps/races/german/team_weapons/german_field_artillery/howitzer_105mm_le_fh18_mp.rgd,gun entity,"howitzer: hardpoint_08 = howitzer_105mm_gun_vplus_radio_mp (disabled until Radio Man), source hardpoint_02 howitzer_105mm_gun_mp"
+weapon/soviet/explosive_weapons/heavy_artillery/152mm_m-30_vplus_radio_mp.rgd,new weapon,"copy of weapon/soviet/explosive_weapons/heavy_artillery/152mm_m-30_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; reload 25s, no burst"
+ebps/races/soviet/team_weapons/soviet_field_artillery/m1937_152mm_ml_20_artillery_mp.rgd,gun entity,"howitzer: hardpoint_08 = 152mm_m-30_vplus_radio_mp (disabled until Radio Man), source hardpoint_02 152mm_m-30_mp"
+weapon/soviet/explosive_weapons/heavy_artillery/203mm_b-4_barrage_vplus_radio_mp.rgd,new weapon,"copy of weapon/soviet/explosive_weapons/heavy_artillery/203mm_b-4_barrage_mp.rgd; priority threat=40 current_target=10 distance=1/1/1; reload 25s, no burst"
+ebps/races/soviet/team_weapons/soviet_field_artillery/m1931_203mm_b-4_howitzer_artillery_mp.rgd,gun entity,"howitzer: hardpoint_08 = 203mm_b-4_barrage_vplus_radio_mp (disabled until Radio Man), source hardpoint_02 203mm_b-4_barrage_mp"
+sbps/races/aef/team_weapons/m1_75mm_pack_howitzer_squad/m1_75mm_pack_howitzer_squad_mp.rgd,squad,Radio Man upgrade button added (m1_75mm_pack_howitzer_mp)
+sbps/races/aef/team_weapons/m1_81mm_mortar_squad/m1_81mm_mortar_squad_mp.rgd,squad,Radio Man upgrade button added (m1_81mm_mortar_mp)
+sbps/races/aef/team_weapons/m2_107mm_mortar_squad_mp.rgd,squad,Radio Man upgrade button added (m2_107mm_mortar_mp)
+sbps/races/aef/team_weapons/m2_60_mm_mortar_squad/m2_60mm_mortar_squad_mp.rgd,squad,Radio Man upgrade button added (m2_60mm_mortar_mp)
+sbps/races/british/team_weapons/howitzer_25_pounder/brit_75mm_pack_howitzer_mp.rgd,squad,Radio Man upgrade button added (m1_75mm_pack_howitzer_mp)
+sbps/races/british/team_weapons/mortar_team_3_inch/brit_2_inch_mortar_team_mp.rgd,squad,Radio Man upgrade button added (m2_60mm_mortar_mp)
+sbps/races/british/team_weapons/mortar_team_3_inch/brit_3_inch_mortar_team_mp.rgd,squad,Radio Man upgrade button added (m1_81mm_mortar_mp)
+sbps/races/british/team_weapons/mortar_team_3_inch/brit_4.2_inch_mortar_team_mp.rgd,squad,Radio Man upgrade button added (m2_107mm_mortar_mp)
+sbps/races/german/soldiers/mortar_team/mortar_team_120mm_mp.rgd,squad,Radio Man upgrade button added (granatewerfer_42_120mm_mortar_mp)
+sbps/races/german/soldiers/mortar_team/mortar_team_50mm_mp.rgd,squad,Radio Man upgrade button added (granatewerfer_36_50mm_mortar_mp)
+sbps/races/german/soldiers/mortar_team/mortar_team_81mm_mp.rgd,squad,Radio Man upgrade button added (granatewerfer_34_81mm_mortar_mp)
+sbps/races/german/vehicles/howitzer_105mm_le_fh18_artillery/howitzer_105mm_le_fh18_artillery_mp.rgd,squad,Radio Man upgrade button added (howitzer_105mm_le_fh18_mp)
+sbps/races/soviet/soldiers/mortar_squad/hm-120_38_mortar_squad_mp.rgd,squad,Radio Man upgrade button added (hm-120_38_mortar_mp)
+sbps/races/soviet/soldiers/mortar_squad/pm-82_41_mortar_squad_mp.rgd,squad,Radio Man upgrade button added (pm41_82mm_mortar_mp)
+sbps/races/soviet/soldiers/mortar_squad/rm-50_38_mortar_squad_mp.rgd,squad,Radio Man upgrade button added (rm38_50mm_mortar_mp)
+sbps/races/soviet/vehicles/m1931_203mm_b-4_howitzer_artillery/m1931_203mm_b-4_howitzer_artillery_mp.rgd,squad,Radio Man upgrade button added (m1931_203mm_b-4_howitzer_artillery_mp)
+sbps/races/soviet/vehicles/m1937_152mm_ml_20_artillery/m1937_152mm_ml_20_artillery_mp.rgd,squad,Radio Man upgrade button added (m1937_152mm_ml_20_artillery_mp)
+sbps/races/west_german/team_weapons/le_ig_18_inf_support_gun_squad/le_ig_18_inf_support_gun_squad_mp.rgd,squad,Radio Man upgrade button added (le_ig_18_inf_support_gun_mp)
