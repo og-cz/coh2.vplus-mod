@@ -16,6 +16,9 @@ PASS Radio Man upgrade: 60 munitions, once per squad
 PASS 14 support-gun entities have the radio weapon on hardpoint_08, disabled at spawn
 PASS 18 squads (all 5 factions) offer the Radio Man upgrade
 PASS barrage / counter-barrage abilities untouched except their range scaling
+PASS no automatic forced retreat left (shells/weapons/entities/auto abilities) ([])
+PASS player-ordered Withdraw and Refit still works
+PASS all 28 bullet blueprints draw no shell model (vanilla tracer look)
 PASS 488 weapon max ranges are exactly 0.80 x Kriegspiel
 PASS min range < max range everywhere
 

@@ -132,6 +132,8 @@ def gunfire(ref):
     for f in sorted(glob.glob(os.path.join(ATTR, 'ebps', 'projectile', 'bullet_*.rgd'))):
         rel = os.path.relpath(f, ATTR).replace('\\', '/'); t = load(rel)
         disable_deformation(t, rel, 'bullet impact (machine-gun projectile)')
+        vis = node(t, 'entity_blueprint_ext', 'is_visible_in_game')
+        if vis and vis[2]: log['gunfire_new_blueprints'].append([rel, 'original bullet', 'is_visible_in_game=False (vanilla tracer look)']); vis[2] = False
     # infantry variants: identical flight/collision (same damage model) but no glowing shell model
     for bullet, var in sorted(inf_variant.items()):
         src = 'ebps/projectile/%s.rgd' % bullet
@@ -191,6 +193,32 @@ def additive_range_modifiers():
                 log['ability_ranges'].append([rel + ' (additive range_weapon_modifier)', old, val[2]])
         walk(t, fn)
 
+# ======================================================= 2b. NO FORCED RETREAT
+def no_forced_retreat():
+    """Kriegspiel forces squads to retreat (last man standing, shell shock from explosions).
+    Only the player (or the AI's own decision) may order a retreat: every retreat_action is removed.
+    The 'soldier_stressed' critical and suppression/pinning stay."""
+    RA = 'action\\retreat_action.lua'
+    for f in sorted(glob.glob(os.path.join(ATTR, '**', '*.rgd'), recursive=True)):
+        if b'retreat_action' not in open(f, 'rb').read(): continue
+        rel = os.path.relpath(f, ATTR).replace('\\', '/')
+        if rel.startswith('abilities/'):
+            d0, t0 = rgd.load(f); act = node(t0, 'ability_bag', 'activation')
+            if not act or act[2] != 'always_on': continue      # player-ordered abilities (e.g. Withdraw and Refit) stay
+        t = load(rel); n = [0]
+        def strip(tab):
+            for e in tab:
+                if e[1] in (100, 101):
+                    keep = []
+                    for x in e[2]:
+                        ref = child(x[2], '$REF') if x[1] in (100, 101) else None
+                        if ref and ref[2] == RA: n[0] += 1
+                        else: keep.append(x)
+                    e[2][:] = keep
+                    strip(e[2])
+        strip(t)
+        if n[0]: log['retreat'].append([rel, n[0], 'retreat_action removed'])
+
 # ======================================================= 3. AI (kept from personal build)
 COVER_RATING = {'tp_heavy': 6.0, 'tp_light': 3.0, 'tp_garrison_cover': 8.0, 'tp_trench': 12.0, 'tp_z_bunker': 10.0,
                 'tp_z_emplacement': 3.0, 'tp_zz_team_weapon_heavy': 5.0, 'tp_garrison_halftrack': 5.0}
@@ -199,6 +227,11 @@ AI_SETTINGS = {('skirmish_settings', 'combat_eval', 'combat_eval_required_win_ra
                ('skirmish_settings', 'tasks', 'max_num_attack_objectives'): 4,
                ('skirmish_settings', 'tasks', 'max_num_capture_tasks'): 6}
 TACTIC_TIME = 0x1810bb21
+AI_NO_RETREAT = {('fallback', 'retreat_health_ratio'): 0.0, ('fallback', 'retreat_combat_rating_ratio'): 0.0,
+                 ('fallback', 'retreat_capacity_ratio'): 0.0, ('fallback', 'fallback_combat_rating_ratio'): 0.0,
+                 ('fallback', 'fallback_capacity_ratio'): 0.0, ('fallback', 'fallback_squad_health_ratio'): 0.0,
+                 ('fallback', 'fallback_vehicle_health_ratio'): 0.0, ('fallback', 'retreat_on_pinned'): False,
+                 ('fallback', 'retreat_on_suppression'): False}
 def ai():
     for f in sorted(glob.glob(os.path.join(ATTR, 'ai_settings', '*.rgd'))):
         rel = os.path.relpath(f, ATTR).replace('\\', '/'); t = load(rel); bag = child(t, 'ai_settings_bag')[2]
@@ -206,7 +239,7 @@ def ai():
         for cov, val in COVER_RATING.items():
             e = node(ct[2], cov, 'class_rating_multiplier')
             if e and e[2] != val: log['ai'].append([rel, 'cover_table/%s/class_rating_multiplier' % cov, e[2], val]); e[2] = val
-        for path, val in AI_SETTINGS.items():
+        for path, val in list(AI_SETTINGS.items()) + list(AI_NO_RETREAT.items()):
             e = node(bag, *path)
             if e is None: continue
             val = type(e[2])(val)
@@ -216,12 +249,12 @@ def ai():
         tac = node(t, 'ai_squad_bag', 'tactics')
         if not tac: continue
         assault = any(s in rel.lower() for s in ('assault', 'stormtrooper', 'shock'))
-        for name, (cap, tl_new) in {'hold_tactic': (150.0, 20.0), 'cover_tactic': (400.0, 30.0)}.items():
+        for name, (cap, tl_new) in {'hold_tactic': (40.0, 15.0), 'cover_tactic': (300.0, 25.0)}.items():
             e = child(tac[2], name)
             if not e: continue
             pr = child(e[2], 'priority'); tl = child(e[2], TACTIC_TIME)
             if pr and pr[2] > cap: log['ai'].append([rel, name + '/priority', pr[2], cap]); pr[2] = cap
-            if tl and tl[2] < 0: log['ai'].append([rel, name + '/time_limit', tl[2], tl_new]); tl[2] = tl_new
+            if tl and (tl[2] < 0 or tl[2] > tl_new): log['ai'].append([rel, name + '/time_limit', tl[2], tl_new]); tl[2] = tl_new
         if assault:
             pr = node(tac[2], 'rush_at_target', 'priority')
             if pr and 0 <= pr[2] < 300: log['ai'].append([rel, 'rush_at_target/priority', pr[2], 300.0]); pr[2] = 300.0
@@ -380,7 +413,7 @@ def main():
         try: _collect(rgd.load(f)[1])
         except Exception: pass
     ref = json.load(open(os.path.join(REP, 'vanilla_gunfire_reference.json')))
-    gunfire(ref); ranges(); barrage_abilities(); additive_range_modifiers(); ai(); perf(); radio_man()
+    gunfire(ref); ranges(); barrage_abilities(); additive_range_modifiers(); no_forced_retreat(); ai(); perf(); radio_man()
     if os.path.isdir(MOD): shutil.rmtree(MOD)
     n_mod = n_add = 0
     for rel, (orig, tab) in changed.items():
@@ -397,7 +430,7 @@ def main():
            'gunfire_new_blueprints': ['file', 'source', 'change'],
            'ranges': ['file', 'name', 'min(kept)', 'old_max', 'new_max', 'old_near', 'new_near', 'old_mid', 'new_mid', 'old_far', 'new_far'],
            'ability_ranges': ['file', 'old', 'new'], 'ai': ['file', 'field', 'old', 'new'], 'perf': ['file', 'field', 'old', 'new', 'why'],
-           'radio': ['file', 'what', 'detail'], 'radio_skipped': ['item', 'reason']}
+           'radio': ['file', 'what', 'detail'], 'radio_skipped': ['item', 'reason'], 'retreat': ['file', 'removed', 'what']}
     for k, h in hdr.items():
         with open(os.path.join(REP, k + '_changes.csv'), 'w', newline='') as fo:
             w = csv.writer(fo); w.writerow(h); w.writerows(log[k])

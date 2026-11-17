@@ -1,5 +1,20 @@
 # Changelog
 
+## 1.1.0 (2026-11-17)
+
+### Fixed
+- Crash when a match loaded: the Radio Man enable/auto-target modifiers had two fields the game's data layout
+  doesn't allow. New `tools/schema_check.py` checks every changed table against the game's own layouts.
+
+### Changed
+- **No forced retreats.** 241 automatic retreat actions were removed: last-man-standing auto-retreat, and shell shock from
+  shells, rockets and grenades. Squads are still stressed, suppressed and pinned. Player-ordered retreats and
+  Withdraw and Refit are unchanged.
+- **AI never retreats or falls back.** All retreat and fallback thresholds are 0.
+- **AI holds positions less.** The hold tactic is capped at 40 priority with a 15 s limit, and cover at 300 with a 25 s limit.
+- **Vanilla bullet look for machine guns too.** The bullet's shell model is hidden on all bullets. Every gun shows its vanilla
+  tracer, thin for rifles and heavier for MGs. The physical bullets and their damage are unchanged.
+
 ## 1.0.0 (2026-11-17), first COH2 V+ Mod build
 
 ### Fixed

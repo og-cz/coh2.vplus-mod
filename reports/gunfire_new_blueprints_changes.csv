@@ -1,4 +1,23 @@
 file,source,change
+ebps/projectile/bullet_127x108mm_api_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_127x108mm_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_145x114mm_api_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_303_cal_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_30_cal_api_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_30_cal_carbine_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_30_cal_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_45_cal_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_50_cal_api_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_50_cal_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_762x25mm_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_762x54mm_api_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_762x54mm_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_792x107mm_api_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_792x33mm_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_792x57mm_api_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_792x57mm_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_792x94mm_api_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
+ebps/projectile/bullet_9x19mm_mp.rgd,original bullet,is_visible_in_game=False (vanilla tracer look)
 ebps/projectile/bullet_303_cal_inf_mp.rgd,copy of ebps/projectile/bullet_303_cal_mp.rgd,is_visible_in_game=False
 ebps/projectile/bullet_30_cal_carbine_inf_mp.rgd,copy of ebps/projectile/bullet_30_cal_carbine_mp.rgd,is_visible_in_game=False
 ebps/projectile/bullet_30_cal_inf_mp.rgd,copy of ebps/projectile/bullet_30_cal_mp.rgd,is_visible_in_game=False

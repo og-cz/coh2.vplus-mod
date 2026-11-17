@@ -72,7 +72,9 @@ ALLOWED = [re.compile(x) for x in [
     r'^/ai_settings_bag/(combat_ratings/cover_table/[^/]+/class_rating_multiplier|skirmish_settings/(combat_eval|tasks)/.*)$',
     r'^/ai_squad_bag/tactics/(hold_tactic|cover_tactic|rush_at_target)/(priority|0x1810bb21)$',
     r'^/ai_ability_bag/ai_tactic/priority$',
-    r'^/explosion_ext/terrain_hit/deformation/(deform_decal_file|vertical_scale)$', r'^/projectile_ext/spawn_collision_fx$']]
+    r'^/explosion_ext/terrain_hit/deformation/(deform_decal_file|vertical_scale)$', r'^/projectile_ext/spawn_collision_fx$',
+    r'^/ai_settings_bag/fallback/(retreat_health_ratio|retreat_combat_rating_ratio|retreat_capacity_ratio|fallback_combat_rating_ratio|fallback_capacity_ratio|fallback_squad_health_ratio|fallback_vehicle_health_ratio|retreat_on_pinned|retreat_on_suppression)$',
+    r'^/entity_blueprint_ext/is_visible_in_game$']]
 gun_ebps = {r[0] for r in csv.reader(open(os.path.join(ROOT, 'reports', 'radio_changes.csv'))) if r[1] == 'gun entity'}
 squads = {r[0] for r in csv.reader(open(os.path.join(ROOT, 'reports', 'radio_changes.csv'))) if r[1] == 'squad'}
 unexpected = collections.Counter(); proj_mg_changed = []; proj_inf_bad = []
@@ -80,7 +82,9 @@ for p, a in OF.items():
     b = NF[p]; rel = p.split('attrib/attrib/', 1)[1]
     structural = rel in gun_ebps or rel in squads
     for k in a:
-        if k not in b: unexpected['<removed key> ' + k] += 1; continue
+        if k not in b:
+            if '/retreat_action' in k: continue                     # forced retreat removed on purpose
+            unexpected['<removed key> ' + k] += 1; continue
         if a[k] == b[k]: continue
         if k == '/weapon_bag/projectile/projectile':
             if ':bullet_' in str(a[k]) and str(b[k]).endswith('_inf_mp') and ('/single_fire/' in p or '/sub_machine_gun/' in p): continue
@@ -130,6 +134,15 @@ ok(hp_ok and len(gun_ebps) == 14, f'{len(gun_ebps)} support-gun entities have th
 ok(len(squads) == 18, f'{len(squads)} squads (all 5 factions) offer the Radio Man upgrade')
 barr = [p for p in OF if '/abilities/' in p and ('barrage' in p) and OF[p] != NF[p] and any(k for k in OF[p] if OF[p][k] != NF[p][k] and k != '/ability_bag/range')]
 ok(not barr, 'barrage / counter-barrage abilities untouched except their range scaling')
+
+# ---------------- 3b. retreat
+left = [p for p, t in T.items() if 'action\\retreat_action.lua' in str(NF[p].values()) and '/abilities/' not in p]
+auto_left = [p for p, t in T.items() if 'soldier_auto_retreat' in p and 'retreat_action' in str(NF[p].values())]
+ok(not left and not auto_left, f'no automatic forced retreat left (shells/weapons/entities/auto abilities) ({left[:3]})')
+wr = [p for p in NF if p.endswith('withdraw_and_refit.rgd') and '/attrib/abilities/' in p]
+ok(all('retreat_action' in str(NF[p].values()) for p in wr), 'player-ordered Withdraw and Refit still works')
+bul = [p for p in NF if '/ebps/projectile/bullet_' in p]
+ok(bul and all(NF[p].get('/entity_blueprint_ext/is_visible_in_game') is False for p in bul), f'all {len(bul)} bullet blueprints draw no shell model (vanilla tracer look)')
 
 # ---------------- 4. ranges
 rr = list(csv.DictReader(open(os.path.join(ROOT, 'reports', 'ranges_changes.csv'))))

@@ -6,10 +6,10 @@
 
 An ambitious, large-scale overhaul for Company of Heroes 2: real bullets, deadly machine guns and an enemy that attacks.
 
-Version 1.0.0 · Skirmish and Custom Games · All 5 factions · Singleplayer and Multiplayer (tuning pack)
+Version 1.1.0 · Skirmish and Custom Games · All 5 factions · Singleplayer and Multiplayer (tuning pack)
 
-<picture>![COH2 V+ Mod](docs/screenshots/screenshot.jpg)</picture>
-<sub>Screenshots coming soon.</sub>
+<picture>![COH2 V+ Mod](workshop/preview_banner.jpg)</picture>
+<sub>In-game screenshots coming soon.</sub>
 
 ---
 
@@ -71,6 +71,7 @@ Put images in docs/screenshots/ and add them here, for example:
 | **Vanilla impacts** | Classic CoH2 bullet impacts and tracer speeds. No phosphorus or other custom hit effects. |
 | **Deadly shrapnel** | Shells burst into fragments that kill. Cover and spacing matter. |
 | **Criticals and morale** | Weapon jams, crew and engine criticals, suppression and pinning all stay part of every fight. |
+| **No forced retreats** | Your squads never run away on their own. Shell shock and heavy losses stress, pin and slow them down, but only you can order a retreat. |
 
 ### Engagement ranges
 
@@ -95,7 +96,9 @@ The AI is built to **attack**, not to wait.
 - **Several attack axes.** It runs up to 4 attack objectives at once and hits the line from different directions.
 - **Flanks MG nests.** Its pathing avoids firing arcs, so infantry go around the gun instead of walking into it.
 - **Uses its toolbox.** Smoke on suppressing MGs, and mortars, artillery and off-map strikes on static positions.
-- **Stays on the offensive.** Squads don't camp in cover forever, assault squads rush, and attacks are re-launched after losses.
+- **Never retreats.** AI squads fight to the end. They get pinned and slowed, but they don't fall back.
+- **Stays on the offensive.** Squads don't camp in cover or hold one spot for long, assault squads rush, and attacks are re-launched after losses.
+- **Same aggression on every difficulty.** Easy to Expert all fight the same way.
 - **Fair.** It gets no extra units or production bonuses. The AI just fights better with what it has.
 
 ### Radio Man support upgrade
@@ -239,6 +242,9 @@ Yes, in custom games where everyone uses the tuning pack. It is not for automatc
 **Do I need any other mod?**
 No. COH2 V+ Mod is standalone.
 
+**Bodies disappear quickly.**
+The mod keeps bodies for 5 minutes. If they vanish sooner, raise **Physics** in CoH2's graphics settings. On Low, the game removes ragdolls early.
+
 **The mod doesn't show up in the list.**
 Wait about 20 seconds after the game starts, or restart the game. Check that `VanillaPlus.sga` is in `mods\tuning\`, not in `mods\tuning\subscriptions\`.
 
@@ -263,7 +269,7 @@ See `TESTING_REPORT.md` for the full test plan.
 
 ## Changelog
 
-See [`CHANGELOG.md`](CHANGELOG.md). Current version: **1.0.0**.
+See [`CHANGELOG.md`](CHANGELOG.md). Current version: **1.1.0**.
 
 ---
 
