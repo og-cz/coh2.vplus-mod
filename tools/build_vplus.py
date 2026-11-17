@@ -256,6 +256,9 @@ def modifier(tpl_mod_entry, ref, value, usage, target, application):
     child(m[2], 'usage_type')[2] = usage; child(m[2], 'target_type_name')[2] = target
     child(m[2], 'application_type')[2] = application; child(m[2], 'modifier_id')[2] = ''
     child(m[2], 'exclusive')[2] = False
+    if ref.split('\\')[-1] in ('enable_weapon_modifier.lua', 'auto_target_enable_weapon_modifier.lua'):
+        # these modifier types have no tooltip fields in the game's data layout - extra keys crash the loader
+        m[2] = [e for e in m[2] if rgd.name(e[0]) not in ('positive_tooltip', 'negative_tooltip')]
     return m
 
 def radio_man():
